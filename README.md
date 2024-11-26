@@ -12,7 +12,6 @@
 - [Gameboy](#Gameboy)
   - [设备本体改造](#设备本体改造)
   - [卡带及烧录器](#卡带及烧录器)
-  - [外设](#外设)
 - [SFC](#SFC)
   - [设备本体改造](#设备本体改造)
   - [卡带及烧录器](#卡带及烧录器)
@@ -118,23 +117,18 @@
  * [NES手柄原理图](https://gamesx.com/wiki/doku.php?id=controls:nes_snes_controller)
  * [NES原理图大全](https://gamesx.com/wiki/doku.php?id=schematics:console_related_schematics)
 ## Gameboy
-
- * **[Mesen 2](https://github.com/SourMesen/Mesen2/)** (GPL-3.0) - high accuracy, extensive built-in debugger and profiler, recommended for development.
- * [ares](https://ares-emu.net/) (ISC) - high accuracy.
- * [Mednafen](https://mednafen.github.io/) (GPL-2.0) - serial port emulation, built-in debugger.
-   * [BizHawk](https://tasvideos.org/Bizhawk) - WonderSwan core based on Mednafen, features Lua scripting and rewind/movie support.
-   * [wf-mednafen](https://github.com/WonderfulToolchain/wf-mednafen/releases/) - fork of Mednafen with emulation fixes and debugger UI/UX improvements, based on mednafenPceDev's work.
-   * [WonderDroid Ultra](https://f-droid.org/packages/com.atelieryl.wonderdroid/) - fork of Mednafen, Android port.
- * [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan) - WonderSwan emulator for Nintendo DS/DSi, user friendly WonderWitch support.
- * [StoicGoose](https://github.com/xdanieldzd/StoicGoose) (MIT) - C# WonderSwan emulator.
- * [Oswan](sourceforge.jp/projects/oswan/devel) (GPL-2.0) - legacy WonderSwan emulator with a built-in debugger.
-
-### Peripheral emulators
-
-These emulators are currently only supported by Mednafen by editing its `wswan.excomm` configuration option.
-
- * [WonderFence](https://bitbucket.org/trap15/wonderfence/src/master/) (MIT) - MobileWonderGate internet adapter emulator.
-
+### 设备本体mod
+#### VIS_Modding改装
+ * [VIS_Game_Boy_DMG支持原装屏幕的完全复刻](https://www.pcbway.com/project/shareproject/Replacement_PCB_for_the_original_gameboy_DMG_with_1_watt_speaker_lipo_battery_a_745f43ad.html) - 自带反显芯片，也支持锂电池、ips屏幕
+ * [VIS Game Boy DMG 2.0仅支持ips屏幕](https://github.com/VISmodding/VIS-DMG-2.0/)
+#### MouseBiteLabs改装
+ * [Game Boy DMG Color](https://github.com/MouseBiteLabs/Game-Boy-DMG-Color) - GBC改成厚GB，仅支持ips屏幕。
+#### 内录机
+ * [GBHDMI](https://github.com/Martoni/GbHdmi)
+### 卡带及烧录器
+ * [MBC1电池存档卡](https://github.com/MouseBiteLabs/Game-Boy-MBC1-Cartridge)
+ * [原装mbc1改烧录卡](https://github.com/timville85/MBC1-Flash)
+ * [MBC1芯片存档卡](https://github.com/ConsolesandCasks/MBC1-Jumper-Flash)
 ## SFC
 
  * [WSCPUTest](https://github.com/FluBBaOfWard/WSCPUTest) - V30MZ CPU behaviour
