@@ -85,18 +85,24 @@
     * [孙大师改装newfc输出接口并加装lava套件的教程](./FC/任天堂FC89加装Lava%20FC%20RGB板，改newfc输出接口过程分享%20-%20创意DIY%20数码之家.pdf)
 #### 89版FC改任天堂多功能尾插
   * [diy尾插](./FC/diy任天堂多功能尾插.zip)
+#### opentendo
+  * [复刻nes](https://github.com/Redherring32/OpenTendo)
 ### 卡带及烧录器
  * [Coolgirl-Multicart(原版0402容阻)](https://github.com/ClusterM/coolgirl-famicom-multicart) - 俄罗斯作者Cluster的原版卡带及烧录器，使用Diptrace设计，容阻为0402封装，焊接难度较高。
    * [Famicom-dumper-writer](https://github.com/ClusterM/famicom-dumper-writer)- 烧录器需要配合[rom生成工具](https://github.com/ClusterM/coolgirl-multirom-builder)和[客户端](https://github.com/ClusterM/famicom-dumper-client)
- * [WSMan](http://daifukkat.su/docs/wsman/) - older documentation source.
- * [Everything You Never Wanted to Know about the WonderSwan RTC](https://forums.nesdev.org/viewtopic.php?t=21513)
- * [Retail cartridges](https://github.com/RSDuck/nileswan/blob/main/docs/retail_cartridges.md) - cartridge logic analyzer and requirement documentation.
+ * [FC-kazzo烧录卡-8MB](https://oshwhub.com/hujie888/fc_2flash_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy) - 国内作者沐沐开源，支持mapper45,52,176。需要使用kazzo烧录。
+ * [FC-MIX-epm240游戏卡](https://oshwhub.com/firseve/fc_mapper_240_copy)
+ * [mapper4卡带](https://oshwhub.com/ayong82/fc-hong-bai-jimapper4-you-hu-ka-dian-lu)
+ * [kazzo烧录器插件版](https://oshwhub.com/ayong82/kazzo-shao-lu-qi)
+ * [kazzo烧录器贴片版](https://oshwhub.com/firseve/kazzo_smd)
+ * [29系EPPROM编程器](https://oshwhub.com/firseve/eeprom_stc_copy)
+#### 卡带相关
+ * [原版卡带pcb封装](https://github.com/Gumball2415/NES-Famicom-Cartridge-Dimensions) - This repository aims to document the dimensions and outlines of common NES and Famicom game cartridge PCBs and their corresponding shells.
 
 ### 外设
-
- * [splashbuilder readme](https://github.com/Godzil/splashbuilder/blob/master/README.md) - WonderSwan Color custom boot splash format.
- * [.WSR file format documentation](archive/in_wsr.txt) (Japanese) - popular WonderSwan standalone/emulated music file format.
-
+ * [手柄15针转7针9针双子星用](https://github.com/jeffqchen/TwinDiamond-Twin-Famicom-Expansion-to-NES-SNES-Controller-Adapter) - fc和双子星15针转两个7针nes手柄和两个7针sfc手柄
+ * [手柄15针转7针9针原版FC用](https://github.com/jeffqchen/FamiCoun-Famicom-Front-Expansion-NES-SNES-Adapter)
+ * [Fc&NES手柄改无线](https://yakaracolombia.github.io/esp32-online-tool/nes.html) - [原理图见此](./FC/fc、nes手柄改无线/diagrama-nes-lite.jpg)
 ## Gameboy
 
  * **[Mesen 2](https://github.com/SourMesen/Mesen2/)** (GPL-3.0) - high accuracy, extensive built-in debugger and profiler, recommended for development.
