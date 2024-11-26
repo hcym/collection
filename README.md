@@ -5,7 +5,7 @@
 ## Contents
 
 - [介绍](#介绍)
-- [FC](#FC)
+- [Famicom&Nes](#Famicom&Nes)
   - [设备本体改造](#设备本体改造)
   - [卡带](#卡带)
   - [外设](#外设)
@@ -73,7 +73,7 @@
 
 我们将从任天堂最早的掌机Gameboy和家用机FC/NES开始说起，直到WII/PS2
 
-## FC
+## Famicom&Nes
 ### 设备本体改造
 #### NES解锁区
 * [原贴](https://bbs.oldmantvg.net/thread-51466.htm)
@@ -82,7 +82,7 @@
   * [LAVA-FC](http://www.lava-fc.top/) - 国产FC-rgb套件，开发作者炸大猫king.
   * [LAVARSC LITE](./FC/LavaRSCLite.zip)- 炸大猫开源的支持RGB,Svideo和复合视频信号的开源FCpcb。
   * [89版FC加装LAVA套件](./FC/89版fc改lava——孙大师.zip)
-    *[孙大师改装newfc输出接口并加装lava套件的教程](./FC/任天堂FC89加装Lava%20FC%20RGB板，改newfc输出接口过程分享%20-%20创意DIY%20数码之家.pdf)
+    * [孙大师改装newfc输出接口并加装lava套件的教程](./FC/任天堂FC89加装Lava%20FC%20RGB板，改newfc输出接口过程分享%20-%20创意DIY%20数码之家.pdf)
 #### 89版FC改任天堂多功能尾插
   * [diy尾插](./FC/diy任天堂多功能尾插.zip)
 ### 卡带
