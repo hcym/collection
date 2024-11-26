@@ -60,7 +60,8 @@
  * [原版卡带pcb封装](https://github.com/Gumball2415/NES-Famicom-Cartridge-Dimensions) - 原装卡带封装，用来复刻正版卡。
  * [FC60PIN转nes72pin](https://github.com/veremenko-y/famicom-to-nes)
  * [cic芯片复刻](https://github.com/krikzz/avrciczz)
-
+#### 国内旋风大佬网盘
+ * [网盘链接](http://flamecyclone.ysepan.com/)
 ### 外设
  * [手柄15针转7针9针双子星用](https://github.com/jeffqchen/TwinDiamond-Twin-Famicom-Expansion-to-NES-SNES-Controller-Adapter) - fc和双子星15针转两个7针nes手柄和两个7针sfc手柄
  * [手柄15针转7针9针原版FC用](https://github.com/jeffqchen/FamiCoun-Famicom-Front-Expansion-NES-SNES-Adapter)
