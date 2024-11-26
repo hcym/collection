@@ -74,23 +74,12 @@
 我们将从任天堂最早的掌机Gameboy和家用机FC/NES开始说起，直到WII/PS2
 
 ## FC
-
 ### 设备本体改造
-
 #### NES解锁区
-
 [解锁区](https://bbs.oldmantvg.net/thread-51466.htm).
-
- * [NEC V30MZ Preliminary User's Manual](https://www.renesas.com/us/en/document/lbr/v30mztm-hardware-preliminary)
-
-#### Other
-
-  * [Seiko S-3511A](http://perfectkiosk.net/S-3511A.pdf) - cartridge RTC.
-  * [Fujitsu MBM29DL400TC](https://github.com/up-n-atom/WonderWitch/blob/main/Datasheets/MBM29DL400BC-12PFTN_to_MBM29DL400TC-90PFTN.pdf) - WonderWitch NOR flash.
-
+#### FC-RGB
+  * [LAVA-FC](http://www.lava-fc.top/) - 国产FC-rgb套件，开发作者炸大猫king.
 ### 卡带
-
- * **[WSdev Wiki](https://ws.nesdev.org/wiki/Main_Page)** - the most recent and actively developed documentation source, hosted by nesdev.org.
  * [STSWS](http://perfectkiosk.net/stsws.html) - contains some information not yet on the WSdev wiki.
  * [WSMan](http://daifukkat.su/docs/wsman/) - older documentation source.
  * [Everything You Never Wanted to Know about the WonderSwan RTC](https://forums.nesdev.org/viewtopic.php?t=21513)
