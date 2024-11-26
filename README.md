@@ -81,7 +81,9 @@
 #### FC-RGB
   * [LAVA-FC](http://www.lava-fc.top/) - 国产FC-rgb套件，开发作者炸大猫king.
   * [LAVARSC LITE](./FC/LavaRSCLite.zip)- 炸大猫开源的支持RGB,Svideo和复合视频信号的开源FCpcb。
-#### FC改任天堂多功能尾插
+  * [89版FC加装LAVA套件](./FC/89版fc改lava——孙大师.zip)
+    *[孙大师改装newfc输出接口并加装lava套件的教程](./FC/任天堂FC89加装Lava%20FC%20RGB板，改newfc输出接口过程分享%20-%20创意DIY%20数码之家.pdf)
+#### 89版FC改任天堂多功能尾插
   * [diy尾插](./FC/diy任天堂多功能尾插.zip)
 ### 卡带
  * [STSWS](http://perfectkiosk.net/stsws.html) - contains some information not yet on the WSdev wiki.
