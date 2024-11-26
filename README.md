@@ -27,7 +27,7 @@
 ## Famicom
 ### 本体mod
 #### NES解锁区
-* [原贴](https://bbs.oldmantvg.net/thread-51466.htm)
+* [原贴](https://www.consolesunleashed.com/guides/nintendo-entertainment-system-region-free-mod-install-guide/)
 * [或者看这里](./FC/NES锁区解锁方法.pdf).
 #### FC-RGB
   * [LAVA-FC](http://www.lava-fc.top/) - 国产FC-rgb套件，开发作者炸大猫king.
@@ -130,3 +130,19 @@
  * [sfc全部rom分类列表](./SFC/超任游戏分类.xlsx)
  * [經典SFC特輯杂志](./SFC/經典SFC特輯.zip)
  * [SFC官方说明书](./SFC/SNES%20Dev%20Manual.pdf)
+
+
+## MD
+###本体mod
+ * [MD转区转制式原理](https://mdpal60.net/regionmod)
+   * [安装教程](https://immerhax.com/?p=386)
+ * [Switchless_SEGA_MasterSystem_MegaDrive](https://github.com/borti4938/Switchless_SEGA_MasterSystem_MegaDrive)
+  * [教程](https://www.consolesunleashed.com/guides/sega-mega-drive-switchless-region-mod-install-guide/srsltid=AfmBOor8aeRmFNeUghGUDB7NJx2qkr_vsDF6CyV0qAYE3aI9WQ8uvczm)
+ * [Megadrive++](https://github.com/SukkoPera/MegaDrivePlusPlus)
+ * [md++简易版](https://github.com/pcm720/mdpp-r)
+ * [双晶振模块](https://immerhax.com/?p=386)
+   * [双晶振模块教程](https://www.consolesunleashed.com/guides/sega-mega-drive-dual-frequency-oscillator-install-guide/)
+ * [MD各型号TripleBypass](https://github.com/zaxour/TripleBypassV2Plus) -RGB增强模块
+ * [MD改S端子](https://consolemods.org/wiki/Genesis:S-Video_Mod)
+ * [MD原理图](./MD/原理图/)
+ * [各型号主板区别](https://consolemods.org/wiki/Genesis:Motherboard_Differences)
