@@ -34,10 +34,10 @@
   - [Other hardware development](#other-hardware-development)
 - [Historical](#historical)
 
-## Introduction
+## 介绍
 
 我们将从任天堂最早的掌机Gameboy和家用机FC/NES开始说起，直到WII/PS2
-## FC&NES
+## Famicom&Nes
 
 ### Datasheets
 
