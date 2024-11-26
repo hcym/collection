@@ -45,6 +45,8 @@
 #### 小天才复刻
   * [复刻小天才](https://github.com/mleonid2000/dendy_junior_remastered)
 #### [红白机工程原理图](https://oshwhub.com/ayong82/hong-bai-ji-fu-ke_copy)
+#### FC CIC 复刻
+  * [avrciczz-ATTINY13](./FC/avrciczz-master.zip)
 ### 卡带及烧录器
  * [Coolgirl-Multicart(原版0402容阻)](https://github.com/ClusterM/coolgirl-famicom-multicart) - 俄罗斯作者Cluster的原版卡带及烧录器，使用Diptrace设计，容阻为0402封装，焊接难度较高。
    * [Famicom-dumper-writer](https://github.com/ClusterM/famicom-dumper-writer)- 烧录器需要配合[rom生成工具](https://github.com/ClusterM/coolgirl-multirom-builder)和[客户端](https://github.com/ClusterM/famicom-dumper-client)
@@ -61,8 +63,6 @@
  * [原版卡带pcb封装](https://github.com/Gumball2415/NES-Famicom-Cartridge-Dimensions) - 原装卡带封装，用来复刻正版卡。
  * [FC60PIN转nes72pin](https://github.com/veremenko-y/famicom-to-nes)
  * [cic芯片复刻](https://github.com/krikzz/avrciczz)
-#### 国内旋风大佬网盘
- * [网盘链接](http://flamecyclone.ysepan.com/)
 ### 外设
  * [手柄15针转7针9针双子星用](https://github.com/jeffqchen/TwinDiamond-Twin-Famicom-Expansion-to-NES-SNES-Controller-Adapter) - fc和双子星15针转两个7针nes手柄和两个7针sfc手柄
  * [手柄15针转7针9针原版FC用](https://github.com/jeffqchen/FamiCoun-Famicom-Front-Expansion-NES-SNES-Adapter)
@@ -71,8 +71,12 @@
    * [说明](https://nes64.pryds.eu/instructions.html)
  * [NES手柄原理图](https://gamesx.com/wiki/doku.php?id=controls:nes_snes_controller)
  * [NES原理图大全](https://gamesx.com/wiki/doku.php?id=schematics:console_related_schematics)
-### 游戏资源
+### 游戏资源及工具
  * [FC & FDS & NES 精选游戏 717](./FC/FC%20&%20FDS%20&%20NES%20精选游戏%20717.zip)
+ * [mapper分类工具](./FC/各种工具/MapperTools.exe)
+ * [旋风大佬网盘链接](http://flamecyclone.ysepan.com/)
+
+
 ## Gameboy
 ### 设备本体mod
 #### VIS_Modding改装
@@ -90,6 +94,7 @@
  * [MBC1芯片存档卡](https://github.com/ConsolesandCasks/MBC1-Jumper-Flash)
  * 烧录器统一见后文GBA部分
  * [卡带按mbcx分类查询](https://gbhwdb.gekkio.fi/cartridges/)
+
 
 ## SFC
 ### 本体mod
