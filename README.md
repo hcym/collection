@@ -97,7 +97,7 @@
  * [kazzo烧录器贴片版](https://oshwhub.com/firseve/kazzo_smd)
  * [29系EPPROM编程器](https://oshwhub.com/firseve/eeprom_stc_copy)
 #### 卡带相关
- * [原版卡带pcb封装](https://github.com/Gumball2415/NES-Famicom-Cartridge-Dimensions) - This repository aims to document the dimensions and outlines of common NES and Famicom game cartridge PCBs and their corresponding shells.
+ * [原版卡带pcb封装](https://github.com/Gumball2415/NES-Famicom-Cartridge-Dimensions) - 原装卡带封装，用来复刻正版卡。
 
 ### 外设
  * [手柄15针转7针9针双子星用](https://github.com/jeffqchen/TwinDiamond-Twin-Famicom-Expansion-to-NES-SNES-Controller-Adapter) - fc和双子星15针转两个7针nes手柄和两个7针sfc手柄
