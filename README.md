@@ -4,8 +4,8 @@
 
 ## Contents
 
-- [介绍](#introduction)
-- [Famicom&Nes](#FC&NES)
+- [介绍](#介绍)
+- [Famicom&Nes](#Famicom&Nes)
   - [Datasheets](#datasheets)
   - [WonderSwan hardware](#wonderswan-hardware)
   - [Other documentation](#other-documentation)
