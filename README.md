@@ -19,6 +19,7 @@
 - [ps2](#ps2)
 - [wii](#wii)
 - [ngc](#ngc)
+- [game&watch](#game&watch)
 ## 介绍
 
 我们将从任天堂最早的掌机Gameboy和家用机FC/NES开始说起，直到WII/PS2
@@ -113,3 +114,9 @@
  * [SNES / SUPER FAMICOM Region free unlock pcb](https://www.pcbway.com/project/shareproject/SNES_SUPER_FAMICOM_Region_free_unlock_pcb_b60baff7.html)
  * [原装双ic手柄pcb](https://www.pcbway.com/project/shareproject/SNES_OEM_Controller_PCB_Replacement_a41ce13c.html)
  * [sfc手柄改无线](https://yakaracolombia.github.io/esp32-online-tool/snes.html)- [原理图见此](./SFC/sfc手柄改无线.jpg)
+ ### 软件、rom及周边
+ * [SFC游戏rom处理工具1](./SFC/Advanced_SNES_ROM_Utility.exe)-[SFC游戏rom处理工具2](./SFC/IpsAndSum.exe)
+ * [SFC游戏老男人精选毕业包v1.0](./SFC/SFC游戏老男人精选毕业包v1.0.zip)
+ * [sfc全部rom分类列表](./SFC/超任游戏分类.xlsx)
+ * [經典SFC特輯杂志](./SFC/經典SFC特輯.zip)
+ * [SFC官方说明书](./SFC/SNES%20Dev%20Manual.pdf)
