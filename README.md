@@ -1,6 +1,6 @@
 # retro-console-remake是一个用来收集、记录复古游戏机改造方案的项目
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
+项目中提到的改造方案大部分为github开源项目，少部分为本人参考网上公开资料设计的成果，仅做收集和备份。
 
 ## Contents
 
