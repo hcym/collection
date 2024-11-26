@@ -122,6 +122,7 @@
  * [原装mbc1改烧录卡](https://github.com/timville85/MBC1-Flash)
  * [MBC1芯片存档卡](https://github.com/ConsolesandCasks/MBC1-Jumper-Flash)
  * 烧录器统一见后文GBA部分
+ * [卡带按mbcx分类查询](https://gbhwdb.gekkio.fi/cartridges/)
 ## SFC
 ### 本体mod
  * [WSCPUTest](https://github.com/FluBBaOfWard/WSCPUTest) - V30MZ CPU behaviour
