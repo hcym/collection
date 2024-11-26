@@ -6,7 +6,7 @@
 
 - [介绍](#介绍)
 - [Famicom](#Famicom)
-  - [设备本体改造](#设备本体改造)
+  - [mod](#mod)
   - [卡带及烧录器](#卡带及烧录器)
   - [外设](#外设)
 - [Gameboy](#Gameboy)
@@ -74,7 +74,7 @@
 我们将从任天堂最早的掌机Gameboy和家用机FC/NES开始说起，直到WII/PS2
 
 ## Famicom
-### 设备本体改造
+### mod
 #### NES解锁区
 * [原贴](https://bbs.oldmantvg.net/thread-51466.htm)
 * [或者看这里](./FC/NES锁区解锁方法.pdf).
