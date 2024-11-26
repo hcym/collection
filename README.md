@@ -71,6 +71,7 @@
    * [说明](https://nes64.pryds.eu/instructions.html)
  * [NES手柄原理图](https://gamesx.com/wiki/doku.php?id=controls:nes_snes_controller)
  * [NES原理图大全](https://gamesx.com/wiki/doku.php?id=schematics:console_related_schematics)
+ * [NES手柄转USB](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB/tree/master/NESControllersUSB)
 ### 游戏资源及工具
  * [FC & FDS & NES 精选游戏 717](./FC/FC%20&%20FDS%20&%20NES%20精选游戏%20717.zip)
  * [mapper分类工具](./FC/各种工具/MapperTools.exe)
@@ -114,6 +115,7 @@
  * [SNES M27C801 LoRom 8Mib without save PCB Single Game](https://www.pcbway.com/project/shareproject/SNES_M27C801_LoRom_8Mib_without_save_PCB_Single_Game_b11b7da3.html)
  * [SNES FlashCard Lorom/Hirom , 4mb max save pcb](https://www.pcbway.com/project/shareproject/SNES_FlashCard_Lorom_Hirom_4mb_max_save_pcb_eea1d7f7.html)
  * [SNES DIP 42 Lorom/hirom 2MO max save pcb](https://www.pcbway.com/project/shareproject/SNES_DIP_42_Lorom_hirom_2MO_max_save_pcb_3727cc9f.html)
+ * [SNES FeRAM Cart](https://github.com/soniccd123/SNES-FeRAM-Cart)
  * [通用烧录器sanni cartreader](https://github.com/sanni/cartreader) - 支持国产d卡，以及上述多种卡带烧录。
 ### 外设
  * [锅仔片手柄板](https://www.pcbway.com/project/shareproject/SNES_Controller_Tac_Switch_Mod_6247d2dd.html)
@@ -121,6 +123,7 @@
  * [SNES / SUPER FAMICOM Region free unlock pcb](https://www.pcbway.com/project/shareproject/SNES_SUPER_FAMICOM_Region_free_unlock_pcb_b60baff7.html)
  * [原装双ic手柄pcb](https://www.pcbway.com/project/shareproject/SNES_OEM_Controller_PCB_Replacement_a41ce13c.html)
  * [sfc手柄改无线](https://yakaracolombia.github.io/esp32-online-tool/snes.html)- [原理图见此](./SFC/sfc手柄改无线.jpg)
+ * [sfc手柄转USB](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB/tree/master/SNESControllersUSB)
  ### 软件、rom及周边
  * [SFC游戏rom处理工具1](./SFC/Advanced_SNES_ROM_Utility.exe)-[SFC游戏rom处理工具2](./SFC/IpsAndSum.exe)
  * [SFC游戏老男人精选毕业包v1.0](./SFC/SFC游戏老男人精选毕业包v1.0.zip)
