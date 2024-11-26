@@ -90,6 +90,8 @@
   * [89版尾板带音频放大](https://oshwhub.com/ayong82/fc-wei-ban)
 #### opentendo
   * [复刻nes](https://github.com/Redherring32/OpenTendo)
+#### 小天才复刻
+  *[复刻小天才](https://github.com/mleonid2000/dendy_junior_remastered)
 #### [红白机工程原理图](https://oshwhub.com/ayong82/hong-bai-ji-fu-ke_copy)
 ### 卡带及烧录器
  * [Coolgirl-Multicart(原版0402容阻)](https://github.com/ClusterM/coolgirl-famicom-multicart) - 俄罗斯作者Cluster的原版卡带及烧录器，使用Diptrace设计，容阻为0402封装，焊接难度较高。
