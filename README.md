@@ -6,7 +6,8 @@
 
 - [介绍](#介绍)
 - [Famicom](#Famicom)
-- [Gameboy](#Gameboy) - [SFC](#SFC)
+- [Gameboy](#Gameboy) 
+- [SFC](#SFC)
 - [MD](#MD)
 - [GBP](#GBP)
 - [GBC](#GBC)
@@ -38,8 +39,8 @@
 #### 尾插
   * [有竖纹简易版](https://www.pcbway.com/project/shareproject/Famicom_AV_Power_Board_bc97a170.html)
   * [89版尾板带音频放大](https://oshwhub.com/ayong82/fc-wei-ban)
-#### opentendo
-  * [复刻nes](https://github.com/Redherring32/OpenTendo)
+#### 复刻NES
+  * [Opentendo](https://github.com/Redherring32/OpenTendo)
 #### 小天才复刻
   * [复刻小天才](https://github.com/mleonid2000/dendy_junior_remastered)
 #### [红白机工程原理图](https://oshwhub.com/ayong82/hong-bai-ji-fu-ke_copy)
