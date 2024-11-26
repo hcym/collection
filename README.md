@@ -5,7 +5,7 @@
 ## Contents
 
 - [介绍](#introduction)
-- [Documentation](#documentation)
+- [Famicom&Nes](#FC&NES)
   - [Datasheets](#datasheets)
   - [WonderSwan hardware](#wonderswan-hardware)
   - [Other documentation](#other-documentation)
@@ -37,7 +37,7 @@
 ## Introduction
 
 我们将从任天堂最早的掌机Gameboy和家用机FC/NES开始说起，直到WII/PS2
-## Documentation
+## FC&NES
 
 ### Datasheets
 
