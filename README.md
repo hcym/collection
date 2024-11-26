@@ -74,6 +74,7 @@
   * [LAVARSC LITE](./FC/LavaRSCLite.zip)- 炸大猫开源的支持RGB,Svideo和复合视频信号的开源FCpcb。
   * [89版FC加装LAVA套件](./FC/89版fc改lava——孙大师.zip)
     * [孙大师改装newfc输出接口并加装lava套件的教程](./FC/任天堂FC89加装Lava%20FC%20RGB板，改newfc输出接口过程分享%20-%20创意DIY%20数码之家.pdf)
+  * [改lava的转接板](./FC/(红白机、NewFC、双子星)改lava转接板PCB源文件/)
 #### 89版FC改任天堂多功能尾插
   * [diy尾插](./FC/diy任天堂多功能尾插.zip)
 #### 尾插
@@ -82,7 +83,7 @@
 #### opentendo
   * [复刻nes](https://github.com/Redherring32/OpenTendo)
 #### 小天才复刻
-  *[复刻小天才](https://github.com/mleonid2000/dendy_junior_remastered)
+  * [复刻小天才](https://github.com/mleonid2000/dendy_junior_remastered)
 #### [红白机工程原理图](https://oshwhub.com/ayong82/hong-bai-ji-fu-ke_copy)
 ### 卡带及烧录器
  * [Coolgirl-Multicart(原版0402容阻)](https://github.com/ClusterM/coolgirl-famicom-multicart) - 俄罗斯作者Cluster的原版卡带及烧录器，使用Diptrace设计，容阻为0402封装，焊接难度较高。
@@ -92,6 +93,7 @@
  * [mapper4卡带](https://oshwhub.com/ayong82/fc-hong-bai-jimapper4-you-hu-ka-dian-lu)
  * [UNROM-512卡带mapper30](https://oshwhub.com/sinzo/nes-cartridge)
  * [NES-CN-ROM-256 mapper3\mapper185](https://github.com/emeargt/nes-cnrom)
+ * [norom unrom卡带不支持卡带烧录](./FC/烧录卡烧录器相关/norom%20unrom%20board/)
  * [kazzo烧录器插件版](https://oshwhub.com/ayong82/kazzo-shao-lu-qi)
  * [kazzo烧录器贴片版](https://oshwhub.com/firseve/kazzo_smd)
  * [29系EPPROM编程器](https://oshwhub.com/firseve/eeprom_stc_copy)
@@ -105,7 +107,7 @@
  * [手柄15针转7针9针原版FC用](https://github.com/jeffqchen/FamiCoun-Famicom-Front-Expansion-NES-SNES-Adapter)
  * [Fc&NES手柄改无线](https://yakaracolombia.github.io/esp32-online-tool/nes.html) - [原理图见此](./FC/fc、nes手柄改无线/diagrama-nes-lite.jpg)
  * [NES手柄pcb（给C64雅达利用的）](https://gitlab.com/nes64/NES64) - NES controller replacement board for C64, Amiga, Atari
-   **[说明](https://nes64.pryds.eu/instructions.html)
+   * [说明](https://nes64.pryds.eu/instructions.html)
  * [NES手柄原理图](https://gamesx.com/wiki/doku.php?id=controls:nes_snes_controller)
  * [NES原理图大全](https://gamesx.com/wiki/doku.php?id=schematics:console_related_schematics)
 ## Gameboy
@@ -129,12 +131,33 @@
 ## SFC
 ### 本体mod
  * [SNES RGB BYPASS MOD](https://github.com/borti4938/SNES_RGB_Bypass) - 包括1chip、JR和早期2chip的机型改装。
+  * [2chip改rgb模块](https://www.pcbway.com/project/shareproject/W441760ASH29_2chip_snes_rgbmod_519bcb95.html)
  * [SNES_MultiRegion_with_DeJitter_QID](https://github.com/borti4938/SNES_MultiRegion_with_DeJitter_QID) - sfc用全区全制式模块以及去抖动。
- * [WSTimingTest](https://github.com/FluBBaOfWard/WSTimingTest) - V30MZ CPU timing
- * [ws-test-suite](https://github.com/asiekierka/ws-test-suite) (MIT) - assorted hardware tests and testing tools
- * [rtctest](https://forums.nesdev.org/viewtopic.php?t=21513) - "2003 mapper + S-3511" RTC protocol and behaviour
+ * [supercic](https://github.com/FluBBaOfWard/WSTimingTest) - V30MZ CPU timing
+ * [sfc原理图](./SFC/snes_schematic_color.pdf)
+ * [sfc jr 改s端子](./SFC/sfc%20jr%20改s端子.zip)
  * [Robert Peip's test ROMs](https://github.com/MiSTer-devel/WonderSwan_MiSTer/tree/main/testroms) - sprite priority/window testing tool
+### 卡带及烧录器
+ * [sd2snes](https://github.com/mrehkopf/sd2snes)
+ * [SNES 2mb flashcard Lorom/Hirom no save pcb](https://www.pcbway.com/project/shareproject/SNES_2_mb_flashcard_Lorom_Hirom_nosave_pcb_a6cb9002.html)
+ * **[Super Nintendo Game Cartridges](https://github.com/MouseBiteLabs/Super-Nintendo-Cartridges)**
+ * [Snes Flash cart by RetroCircuits](https://www.pcbway.com/project/shareproject/Snes_Flash_cart_by_RetroCircuits_dc8cc488.html)
+ * [SNES M27C801 HiRom 8Mib without save PCB Single Game](https://www.pcbway.com/project/shareproject/SNES_M27C801_HiRom_8Mib_without_save_PCB_Single_Game_b414b148.html)
+ * [SNES M27C801 LoRom 8Mib without save PCB Single Game](https://www.pcbway.com/project/shareproject/SNES_M27C801_LoRom_8Mib_without_save_PCB_Single_Game_b11b7da3.html)
+ * [SNES FlashCard Lorom/Hirom , 4mb max save pcb](https://www.pcbway.com/project/shareproject/SNES_FlashCard_Lorom_Hirom_4mb_max_save_pcb_eea1d7f7.html)
+ * [SNES DIP 42 Lorom/hirom 2MO max save pcb](https://www.pcbway.com/project/shareproject/SNES_DIP_42_Lorom_hirom_2MO_max_save_pcb_3727cc9f.html)
+ * []()
+ * []()
+ * []()
+ 
 
+
+
+### 外设
+ * [锅仔片手柄板](https://www.pcbway.com/project/shareproject/SNES_Controller_Tac_Switch_Mod_6247d2dd.html)
+ * [Super Game Boy Plus自制sgb](https://github.com/MouseBiteLabs/Super-Game-Boy-Plus/tree/main) - A replacement circuit board for improving the Super Game Boy, or for creating a standalone Game Boy game for the SNES.
+ * [SNES / SUPER FAMICOM Region free unlock pcb](https://www.pcbway.com/project/shareproject/SNES_SUPER_FAMICOM_Region_free_unlock_pcb_b60baff7.html)
+ * [原装双ic手柄pcb](https://www.pcbway.com/project/shareproject/SNES_OEM_Controller_PCB_Replacement_a41ce13c.html)
 ## Software development
 
  * **[Wonderful](https://wonderful.asie.pl/)** - gcc-ia16 based C/ASM toolchain for WonderSwan and WonderWitch.
