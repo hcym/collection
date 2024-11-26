@@ -140,7 +140,7 @@
  * [MD转区转制式原理](https://mdpal60.net/regionmod)
    * [安装教程](https://immerhax.com/?p=386)
  * [Switchless_SEGA_MasterSystem_MegaDrive](https://github.com/borti4938/Switchless_SEGA_MasterSystem_MegaDrive)
-  * [教程](https://www.consolesunleashed.com/guides/sega-mega-drive-switchless-region-mod-install-guide/srsltid=AfmBOor8aeRmFNeUghGUDB7NJx2qkr_vsDF6CyV0qAYE3aI9WQ8uvczm)
+   * [教程](https://www.consolesunleashed.com/guides/sega-mega-drive-switchless-region-mod-install-guide/srsltid=AfmBOor8aeRmFNeUghGUDB7NJx2qkr_vsDF6CyV0qAYE3aI9WQ8uvczm)
  * [Megadrive++](https://github.com/SukkoPera/MegaDrivePlusPlus)
  * [md++简易版](https://github.com/pcm720/mdpp-r)
  * [双晶振模块](https://immerhax.com/?p=386)
