@@ -117,12 +117,15 @@
  * [Game Boy DMG Color](https://github.com/MouseBiteLabs/Game-Boy-DMG-Color) - GBC改成厚GB，仅支持ips屏幕。
 #### 内录机
  * [GBHDMI](https://github.com/Martoni/GbHdmi)
+#### 原理图
+ * [DMG厚GB原理图大全](./GAMEBOY/gameboy系列全原理图/) - gekkio贡献的全系列原理图,包含主板、屏幕驱动板、电源板、耳机板
 ### 卡带及烧录器
  * [MBC1电池存档卡](https://github.com/MouseBiteLabs/Game-Boy-MBC1-Cartridge)
  * [原装mbc1改烧录卡](https://github.com/timville85/MBC1-Flash)
  * [MBC1芯片存档卡](https://github.com/ConsolesandCasks/MBC1-Jumper-Flash)
  * 烧录器统一见后文GBA部分
  * [卡带按mbcx分类查询](https://gbhwdb.gekkio.fi/cartridges/)
+
 ## SFC
 ### 本体mod
  * [WSCPUTest](https://github.com/FluBBaOfWard/WSCPUTest) - V30MZ CPU behaviour
