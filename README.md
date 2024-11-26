@@ -99,8 +99,8 @@
  * [FC-kazzo烧录卡-8MB](https://oshwhub.com/hujie888/fc_2flash_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy) - 国内作者沐沐开源，支持mapper45,52,176。需要使用kazzo烧录。
  * [FC-MIX-epm240游戏卡](https://oshwhub.com/firseve/fc_mapper_240_copy)
  * [mapper4卡带](https://oshwhub.com/ayong82/fc-hong-bai-jimapper4-you-hu-ka-dian-lu)
- * [UNROM-512卡带](https://oshwhub.com/sinzo/nes-cartridge)
- * [NES-CN-ROM-256](https://github.com/emeargt/nes-cnrom)
+ * [UNROM-512卡带mapper30](https://oshwhub.com/sinzo/nes-cartridge)
+ * [NES-CN-ROM-256 mapper3\mapper185](https://github.com/emeargt/nes-cnrom)
  * [kazzo烧录器插件版](https://oshwhub.com/ayong82/kazzo-shao-lu-qi)
  * [kazzo烧录器贴片版](https://oshwhub.com/firseve/kazzo_smd)
  * [29系EPPROM编程器](https://oshwhub.com/firseve/eeprom_stc_copy)
@@ -114,7 +114,7 @@
  * [手柄15针转7针9针原版FC用](https://github.com/jeffqchen/FamiCoun-Famicom-Front-Expansion-NES-SNES-Adapter)
  * [Fc&NES手柄改无线](https://yakaracolombia.github.io/esp32-online-tool/nes.html) - [原理图见此](./FC/fc、nes手柄改无线/diagrama-nes-lite.jpg)
  * [NES手柄pcb（给C64雅达利用的）](https://gitlab.com/nes64/NES64) - NES controller replacement board for C64, Amiga, Atari
-   *[说明](https://nes64.pryds.eu/instructions.html)
+   **[说明](https://nes64.pryds.eu/instructions.html)
  * [NES手柄原理图](https://gamesx.com/wiki/doku.php?id=controls:nes_snes_controller)
  * [NES原理图大全](https://gamesx.com/wiki/doku.php?id=schematics:console_related_schematics)
 ## Gameboy
