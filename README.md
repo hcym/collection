@@ -111,11 +111,10 @@
  * [手柄15针转7针9针双子星用](https://github.com/jeffqchen/TwinDiamond-Twin-Famicom-Expansion-to-NES-SNES-Controller-Adapter) - fc和双子星15针转两个7针nes手柄和两个7针sfc手柄
  * [手柄15针转7针9针原版FC用](https://github.com/jeffqchen/FamiCoun-Famicom-Front-Expansion-NES-SNES-Adapter)
  * [Fc&NES手柄改无线](https://yakaracolombia.github.io/esp32-online-tool/nes.html) - [原理图见此](./FC/fc、nes手柄改无线/diagrama-nes-lite.jpg)
- * [NES手柄pcb](https://gitlab.com/nes64/NES64) - NES controller replacement board for C64, Amiga, Atari
+ * [NES手柄pcb（给C64雅达利用的）](https://gitlab.com/nes64/NES64) - NES controller replacement board for C64, Amiga, Atari
    *[说明](https://nes64.pryds.eu/instructions.html)
- 
- * [NES手柄pcb]()
- * [NES手柄pcb]()
+ * [NES手柄原理图](https://gamesx.com/wiki/doku.php?id=controls:nes_snes_controller)
+ * [NES原理图大全](https://gamesx.com/wiki/doku.php?id=schematics:console_related_schematics)
 ## Gameboy
 
  * **[Mesen 2](https://github.com/SourMesen/Mesen2/)** (GPL-3.0) - high accuracy, extensive built-in debugger and profiler, recommended for development.
