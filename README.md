@@ -71,6 +71,8 @@
    * [说明](https://nes64.pryds.eu/instructions.html)
  * [NES手柄原理图](https://gamesx.com/wiki/doku.php?id=controls:nes_snes_controller)
  * [NES原理图大全](https://gamesx.com/wiki/doku.php?id=schematics:console_related_schematics)
+### 游戏资源
+ * [FC & FDS & NES 精选游戏 717](./FC/FC%20&%20FDS%20&%20NES%20精选游戏%20717.zip)
 ## Gameboy
 ### 设备本体mod
 #### VIS_Modding改装
