@@ -9,7 +9,7 @@
 - [Gameboy](#Gameboy) 
 - [SFC](#SFC)
 - [MD](#MD)
-- [GBP GBC](#GBP GBC)
+- [GBP&GBC](#GBP&GBC)
 - [GBA](#GBA)
 - [WSC](#WSC)
 - [nds](#nds)
@@ -136,7 +136,7 @@
 
 
 ## MD
-###本体mod
+### 本体mod
  * [MD转区转制式原理](https://mdpal60.net/regionmod)
    * [安装教程](https://immerhax.com/?p=386)
  * [Switchless_SEGA_MasterSystem_MegaDrive](https://github.com/borti4938/Switchless_SEGA_MasterSystem_MegaDrive)
@@ -174,4 +174,4 @@
 
 
 
-## GBP GBC
+## GBP&GBC
