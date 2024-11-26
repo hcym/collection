@@ -76,7 +76,8 @@
 ## FC
 ### 设备本体改造
 #### NES解锁区
-[解锁区](https://bbs.oldmantvg.net/thread-51466.htm).
+* [原贴](https://bbs.oldmantvg.net/thread-51466.htm)
+* [或者看这里](./FC/NES锁区解锁方法.pdf).
 #### FC-RGB
   * [LAVA-FC](http://www.lava-fc.top/) - 国产FC-rgb套件，开发作者炸大猫king.
 ### 卡带
