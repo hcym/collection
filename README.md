@@ -9,8 +9,7 @@
 - [Gameboy](#Gameboy) 
 - [SFC](#SFC)
 - [MD](#MD)
-- [GBP](#GBP)
-- [GBC](#GBC)
+- [GBP GBC](#GBP GBC)
 - [GBA](#GBA)
 - [WSC](#WSC)
 - [nds](#nds)
@@ -75,6 +74,7 @@
  * [NES原理图大全](https://gamesx.com/wiki/doku.php?id=schematics:console_related_schematics)
  * [NES手柄转USB](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB/tree/master/NESControllersUSB)
  * [NES光枪](https://boojakascha.ch/index.php?page=NESLCDgun)
+ * [鼠标转nes手柄](https://github.com/HotPixelChannel/Mouse-To-NES)
 ### 游戏资源及工具
  * [FC & FDS & NES 精选游戏 717](./FC/FC%20&%20FDS%20&%20NES%20精选游戏%20717.zip)
  * [mapper分类工具](./FC/各种工具/MapperTools.exe)
@@ -150,7 +150,7 @@
  * [MD原理图](./MD/原理图/)
  * [各型号主板区别](https://consolemods.org/wiki/Genesis:Motherboard_Differences)
 
- ###卡带及烧录器
+ ### 卡带及烧录器
  * [Genesis FeRAM Cart芯片记忆卡5V](https://github.com/soniccd123/Genesis-FeRAM-Cart)
  * [OpenDrive-Genesis芯片记忆卡带3V电平转换](https://github.com/soniccd123/OpenDrive-Genesis)
    * [上述两张卡的配套烧录器](https://github.com/soniccd123/OpenDrive-Programmer)
@@ -164,9 +164,14 @@
  * [sanni cartreader](https://github.com/sanni/cartreader) - 目前固件仅支持MX29F1610卡带
 
 
-###其他改装
+### 其他改装
  * [SM801X复刻MD](https://github.com/HotPixelChannel/EHODRIVE_SM801_Sega_MD_Clone) - 支持rgbs输出
- * []()
- * []()
- * []()
- * []()
+ * [鼠标转md控制器](https://github.com/HotPixelChannel/Mouse-To-SEGA-MD)
+ * [MD大3键手柄改无线](https://yakaracolombia.github.io/esp32-online-tool/genesis.html)- [原理图见此](./MD/md手柄改无线.jpg)
+
+### 游戏资源
+ * [老男人精选](./MD/游戏精选/)
+
+
+
+## GBP GBC
