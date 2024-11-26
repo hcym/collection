@@ -93,6 +93,7 @@
  * [FC-kazzo烧录卡-8MB](https://oshwhub.com/hujie888/fc_2flash_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy) - 国内作者沐沐开源，支持mapper45,52,176。需要使用kazzo烧录。
  * [FC-MIX-epm240游戏卡](https://oshwhub.com/firseve/fc_mapper_240_copy)
  * [mapper4卡带](https://oshwhub.com/ayong82/fc-hong-bai-jimapper4-you-hu-ka-dian-lu)
+ * [UNROM-512卡带](https://oshwhub.com/sinzo/nes-cartridge)
  * [kazzo烧录器插件版](https://oshwhub.com/ayong82/kazzo-shao-lu-qi)
  * [kazzo烧录器贴片版](https://oshwhub.com/firseve/kazzo_smd)
  * [29系EPPROM编程器](https://oshwhub.com/firseve/eeprom_stc_copy)
