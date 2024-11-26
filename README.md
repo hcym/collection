@@ -44,6 +44,8 @@
   * [Opentendo](https://github.com/Redherring32/OpenTendo)
 #### 小天才复刻
   * [复刻小天才](https://github.com/mleonid2000/dendy_junior_remastered)
+#### Candy 8bit
+  * [全集成复刻fc](https://github.com/HotPixelChannel/Candy_8bit/tree/main)
 #### [红白机工程原理图](https://oshwhub.com/ayong82/hong-bai-ji-fu-ke_copy)
 #### FC CIC 复刻
   * [avrciczz-ATTINY13](./FC/avrciczz-master.zip)
@@ -72,6 +74,7 @@
  * [NES手柄原理图](https://gamesx.com/wiki/doku.php?id=controls:nes_snes_controller)
  * [NES原理图大全](https://gamesx.com/wiki/doku.php?id=schematics:console_related_schematics)
  * [NES手柄转USB](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB/tree/master/NESControllersUSB)
+ * [NES光枪](https://boojakascha.ch/index.php?page=NESLCDgun)
 ### 游戏资源及工具
  * [FC & FDS & NES 精选游戏 717](./FC/FC%20&%20FDS%20&%20NES%20精选游戏%20717.zip)
  * [mapper分类工具](./FC/各种工具/MapperTools.exe)
@@ -146,3 +149,24 @@
  * [MD改S端子](https://consolemods.org/wiki/Genesis:S-Video_Mod)
  * [MD原理图](./MD/原理图/)
  * [各型号主板区别](https://consolemods.org/wiki/Genesis:Motherboard_Differences)
+
+ ###卡带及烧录器
+ * [Genesis FeRAM Cart芯片记忆卡5V](https://github.com/soniccd123/Genesis-FeRAM-Cart)
+ * [OpenDrive-Genesis芯片记忆卡带3V电平转换](https://github.com/soniccd123/OpenDrive-Genesis)
+   * [上述两张卡的配套烧录器](https://github.com/soniccd123/OpenDrive-Programmer)
+   * [上位机](https://github.com/soniccd123/OpenDrive-Editor)
+ * [简易2合1md卡无存档](https://oshwhub.com/firseve/md-cart_copy)
+ * [Sega Megadrive/Genesis , 27芯片带存档](https://www.pcbway.com/project/shareproject/Sega_Megadrive_Genesis_4Mo_FRAM_save_repro_PCB_0d6f159b.html)
+ * [简易4MB单卡 无存档](./MD/卡带/PCB_MD短板_Final_2024-09-10.rar) - 老男人论坛@雷帕德安布雷拉
+ * [简易4MB单卡带存档](./MD/卡带/PCB_MD记忆版美观版_2024-09-10.rar) - 老男人论坛@雷帕德安布雷拉
+ * [乌克兰OPEN-ED](https://github.com/krikzz/open-ed)
+ * [简易编程器](https://oshwhub.com/firseve/stc-md-tsop56)
+ * [sanni cartreader](https://github.com/sanni/cartreader) - 目前固件仅支持MX29F1610卡带
+
+
+###其他改装
+ * [SM801X复刻MD](https://github.com/HotPixelChannel/EHODRIVE_SM801_Sega_MD_Clone) - 支持rgbs输出
+ * []()
+ * []()
+ * []()
+ * []()
