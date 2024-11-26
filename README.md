@@ -85,8 +85,9 @@
     * [孙大师改装newfc输出接口并加装lava套件的教程](./FC/任天堂FC89加装Lava%20FC%20RGB板，改newfc输出接口过程分享%20-%20创意DIY%20数码之家.pdf)
 #### 89版FC改任天堂多功能尾插
   * [diy尾插](./FC/diy任天堂多功能尾插.zip)
-#### 简易尾插
+#### 尾插
   * [有竖纹简易版](https://www.pcbway.com/project/shareproject/Famicom_AV_Power_Board_bc97a170.html)
+  * [89版尾板带音频放大](https://oshwhub.com/ayong82/fc-wei-ban)
 #### opentendo
   * [复刻nes](https://github.com/Redherring32/OpenTendo)
 ### 卡带及烧录器
