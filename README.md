@@ -13,7 +13,7 @@
   - [设备本体改造](#设备本体改造)
   - [卡带及烧录器](#卡带及烧录器)
 - [SFC](#SFC)
-  - [设备本体改造](#设备本体改造)
+  - [本体mod](#本体mod)
   - [卡带及烧录器](#卡带及烧录器)
   - [外设](#外设)
 - [MD](#MD)
@@ -36,15 +36,7 @@
   - [设备本体改造](#设备本体改造)
   - [卡带及烧录器](#卡带及烧录器)
   - [外设](#外设)
-- [psp](#psp)
-  - [设备本体改造](#设备本体改造)
-  - [卡带及烧录器](#卡带及烧录器)
-  - [外设](#外设)
 - [nds](#nds)
-  - [设备本体改造](#设备本体改造)
-  - [卡带及烧录器](#卡带及烧录器)
-  - [外设](#外设)
-- [3ds](#3ds)
   - [设备本体改造](#设备本体改造)
   - [卡带及烧录器](#卡带及烧录器)
   - [外设](#外设)
@@ -129,8 +121,9 @@
  * [MBC1电池存档卡](https://github.com/MouseBiteLabs/Game-Boy-MBC1-Cartridge)
  * [原装mbc1改烧录卡](https://github.com/timville85/MBC1-Flash)
  * [MBC1芯片存档卡](https://github.com/ConsolesandCasks/MBC1-Jumper-Flash)
+ * 烧录器统一见后文GBA部分
 ## SFC
-
+### 本体mod
  * [WSCPUTest](https://github.com/FluBBaOfWard/WSCPUTest) - V30MZ CPU behaviour
  * [WSHWTest](https://github.com/FluBBaOfWard/WSHWTest) - SoC interrupt/PPU timer handling
  * [WSTimingTest](https://github.com/FluBBaOfWard/WSTimingTest) - V30MZ CPU timing
