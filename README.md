@@ -77,9 +77,9 @@
 
 ### 设备本体改造
 
-#### NEC V30MZ CPU
+#### NES解锁区
 
-[as part of STSWS](http://perfectkiosk.net/stsws.html#cpu_8086_translation_map).
+[解锁区](https://bbs.oldmantvg.net/thread-51466.htm).
 
  * [NEC V30MZ Preliminary User's Manual](https://www.renesas.com/us/en/document/lbr/v30mztm-hardware-preliminary)
 
