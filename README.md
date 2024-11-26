@@ -85,6 +85,8 @@
     * [孙大师改装newfc输出接口并加装lava套件的教程](./FC/任天堂FC89加装Lava%20FC%20RGB板，改newfc输出接口过程分享%20-%20创意DIY%20数码之家.pdf)
 #### 89版FC改任天堂多功能尾插
   * [diy尾插](./FC/diy任天堂多功能尾插.zip)
+#### 简易尾插
+  * [有竖纹简易版](https://www.pcbway.com/project/shareproject/Famicom_AV_Power_Board_bc97a170.html)
 #### opentendo
   * [复刻nes](https://github.com/Redherring32/OpenTendo)
 ### 卡带及烧录器
@@ -94,16 +96,24 @@
  * [FC-MIX-epm240游戏卡](https://oshwhub.com/firseve/fc_mapper_240_copy)
  * [mapper4卡带](https://oshwhub.com/ayong82/fc-hong-bai-jimapper4-you-hu-ka-dian-lu)
  * [UNROM-512卡带](https://oshwhub.com/sinzo/nes-cartridge)
+ * [NES-CN-ROM-256](https://github.com/emeargt/nes-cnrom)
  * [kazzo烧录器插件版](https://oshwhub.com/ayong82/kazzo-shao-lu-qi)
  * [kazzo烧录器贴片版](https://oshwhub.com/firseve/kazzo_smd)
  * [29系EPPROM编程器](https://oshwhub.com/firseve/eeprom_stc_copy)
 #### 卡带相关
  * [原版卡带pcb封装](https://github.com/Gumball2415/NES-Famicom-Cartridge-Dimensions) - 原装卡带封装，用来复刻正版卡。
+ * [FC60PIN转nes72pin](https://github.com/veremenko-y/famicom-to-nes)
+ * [cic芯片复刻](https://github.com/krikzz/avrciczz)
 
 ### 外设
  * [手柄15针转7针9针双子星用](https://github.com/jeffqchen/TwinDiamond-Twin-Famicom-Expansion-to-NES-SNES-Controller-Adapter) - fc和双子星15针转两个7针nes手柄和两个7针sfc手柄
  * [手柄15针转7针9针原版FC用](https://github.com/jeffqchen/FamiCoun-Famicom-Front-Expansion-NES-SNES-Adapter)
  * [Fc&NES手柄改无线](https://yakaracolombia.github.io/esp32-online-tool/nes.html) - [原理图见此](./FC/fc、nes手柄改无线/diagrama-nes-lite.jpg)
+ * [NES手柄pcb](https://gitlab.com/nes64/NES64) - NES controller replacement board for C64, Amiga, Atari
+   *[说明](https://nes64.pryds.eu/instructions.html)
+ 
+ * [NES手柄pcb]()
+ * [NES手柄pcb]()
 ## Gameboy
 
  * **[Mesen 2](https://github.com/SourMesen/Mesen2/)** (GPL-3.0) - high accuracy, extensive built-in debugger and profiler, recommended for development.
