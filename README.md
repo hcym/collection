@@ -6,49 +6,80 @@
 
 - [介绍](#介绍)
 - [FC](#FC)
-  - [console](#console)
-  - [cartridge](#cartridge)
-  - [Accessoris](#Accessoris)
+  - [设备本体改造](#设备本体改造)
+  - [卡带](#卡带)
+  - [外设](#外设)
 - [Gameboy](#Gameboy)
-  - [Peripheral emulators](#peripheral-emulators)
-- [Accuracy test ROMs](#accuracy-test-roms)
-- [Software development](#software-development)
-  - [Libraries](#libraries)
-    - [Music drivers](#music-drivers)
-  - [Tools](#tools)
-    - [Graphics utilities](#graphics-utilities)
-- [Source code](#source-code)
-  - [Boilerplate](#boilerplate)
-  - [Demos](#demos)
-  - [Games](#games)
-  - [Other programs](#other-programs)
-  - [Miscellaneous](#miscellaneous)
-- [WonderWitch](#wonderwitch)
-  - [WW tools](#ww-tools)
-  - [WW documentation](#ww-documentation)
-  - [WW open-source homebrew](#ww-open-source-homebrew)
-- [Hardware development](#hardware-development)
-  - [Cartridges](#cartridges)
-  - [Peripherals](#peripherals)
-  - [Screen capture](#screen-capture)
-  - [Other hardware development](#other-hardware-development)
-- [Historical](#historical)
-
+  - [设备本体改造](#设备本体改造)
+  - [卡带](#卡带)
+  - [外设](#外设)
+- [SFC](#SFC)
+  - [设备本体改造](#设备本体改造)
+  - [卡带](#卡带)
+  - [外设](#外设)
+- [MD](#MD)
+  - [设备本体改造](#设备本体改造)
+  - [卡带](#卡带)
+  - [外设](#外设)
+- [GBP](#GBP)
+  - [设备本体改造](#设备本体改造)
+  - [卡带](#卡带)
+  - [外设](#外设)
+- [GBC](#GBC)
+  - [设备本体改造](#设备本体改造)
+  - [卡带](#卡带)
+  - [外设](#外设)
+- [GBA](#GBA)
+  - [设备本体改造](#设备本体改造)
+  - [卡带](#卡带)
+  - [外设](#外设)
+- [WSC](#WSC)
+  - [设备本体改造](#设备本体改造)
+  - [卡带](#卡带)
+  - [外设](#外设)
+- [psp](#psp)
+  - [设备本体改造](#设备本体改造)
+  - [卡带](#卡带)
+  - [外设](#外设)
+- [nds](#nds)
+  - [设备本体改造](#设备本体改造)
+  - [卡带](#卡带)
+  - [外设](#外设)
+- [3ds](#3ds)
+  - [设备本体改造](#设备本体改造)
+  - [卡带](#卡带)
+  - [外设](#外设)
+- [N64](#N64)
+  - [设备本体改造](#设备本体改造)
+  - [卡带](#卡带)
+  - [外设](#外设)
+- [PS](#ps)
+  - [设备本体改造](#设备本体改造)
+  - [卡带](#卡带)
+  - [外设](#外设)
+- [ps2](#ps2)
+  - [设备本体改造](#设备本体改造)
+  - [DVD](#DVD)
+  - [外设](#外设)
+- [wii](#wii)
+  - [设备本体改造](#设备本体改造)
+  - [SD](#SD)
+  - [外设](#外设)
+- [ngc](#ngc)
+  - [设备本体改造](#设备本体改造)
+  - [免盘](#免盘)
+  - [外设](#外设)
 ## 介绍
 
 我们将从任天堂最早的掌机Gameboy和家用机FC/NES开始说起，直到WII/PS2
 
 ## FC
 
-### console
+### 设备本体改造
 
 #### NEC V30MZ CPU
 
-The NEC V30MZ is an 80186-compatible CPU for low-power platforms with an efficient pipeline design. It should not be confused with the
-NEC V20/V30 line of CPUs, which provide additional opcodes and features on top of the 8086 architecture.
-
-For a variety of reasons, NEC's documentation (and some WonderSwan documentation) uses unique NEC opcode names, while other sources
-and assemblers typically use Intel opcode names. A translation map between the two is available [as part of STSWS](http://perfectkiosk.net/stsws.html#cpu_8086_translation_map).
+[as part of STSWS](http://perfectkiosk.net/stsws.html#cpu_8086_translation_map).
 
  * [NEC V30MZ Preliminary User's Manual](https://www.renesas.com/us/en/document/lbr/v30mztm-hardware-preliminary)
 
@@ -57,7 +88,7 @@ and assemblers typically use Intel opcode names. A translation map between the t
   * [Seiko S-3511A](http://perfectkiosk.net/S-3511A.pdf) - cartridge RTC.
   * [Fujitsu MBM29DL400TC](https://github.com/up-n-atom/WonderWitch/blob/main/Datasheets/MBM29DL400BC-12PFTN_to_MBM29DL400TC-90PFTN.pdf) - WonderWitch NOR flash.
 
-### cartridge
+### 卡带
 
  * **[WSdev Wiki](https://ws.nesdev.org/wiki/Main_Page)** - the most recent and actively developed documentation source, hosted by nesdev.org.
  * [STSWS](http://perfectkiosk.net/stsws.html) - contains some information not yet on the WSdev wiki.
@@ -65,12 +96,12 @@ and assemblers typically use Intel opcode names. A translation map between the t
  * [Everything You Never Wanted to Know about the WonderSwan RTC](https://forums.nesdev.org/viewtopic.php?t=21513)
  * [Retail cartridges](https://github.com/RSDuck/nileswan/blob/main/docs/retail_cartridges.md) - cartridge logic analyzer and requirement documentation.
 
-### Accessoris
+### 外设
 
  * [splashbuilder readme](https://github.com/Godzil/splashbuilder/blob/master/README.md) - WonderSwan Color custom boot splash format.
  * [.WSR file format documentation](archive/in_wsr.txt) (Japanese) - popular WonderSwan standalone/emulated music file format.
 
-## Emulators
+## Gameboy
 
  * **[Mesen 2](https://github.com/SourMesen/Mesen2/)** (GPL-3.0) - high accuracy, extensive built-in debugger and profiler, recommended for development.
  * [ares](https://ares-emu.net/) (ISC) - high accuracy.
@@ -88,7 +119,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
  * [WonderFence](https://bitbucket.org/trap15/wonderfence/src/master/) (MIT) - MobileWonderGate internet adapter emulator.
 
-## Accuracy test ROMs
+## SFC
 
  * [WSCPUTest](https://github.com/FluBBaOfWard/WSCPUTest) - V30MZ CPU behaviour
  * [WSHWTest](https://github.com/FluBBaOfWard/WSHWTest) - SoC interrupt/PPU timer handling
