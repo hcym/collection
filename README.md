@@ -4,12 +4,12 @@
 
 ## Contents
 
-- [Introduction](#introduction)
-- [Documentation](#documentation)
-  - [Datasheets](#datasheets)
-  - [WonderSwan hardware](#wonderswan-hardware)
-  - [Other documentation](#other-documentation)
-- [Emulators](#emulators)
+- [介绍](#介绍)
+- [FC](#FC)
+  - [console](#console)
+  - [cartridge](#cartridge)
+  - [Accessoris](#Accessoris)
+- [Gameboy](#Gameboy)
   - [Peripheral emulators](#peripheral-emulators)
 - [Accuracy test ROMs](#accuracy-test-roms)
 - [Software development](#software-development)
@@ -38,9 +38,9 @@
 
 我们将从任天堂最早的掌机Gameboy和家用机FC/NES开始说起，直到WII/PS2
 
-## Documentation
+## FC
 
-### Datasheets
+### console
 
 #### NEC V30MZ CPU
 
@@ -57,7 +57,7 @@ and assemblers typically use Intel opcode names. A translation map between the t
   * [Seiko S-3511A](http://perfectkiosk.net/S-3511A.pdf) - cartridge RTC.
   * [Fujitsu MBM29DL400TC](https://github.com/up-n-atom/WonderWitch/blob/main/Datasheets/MBM29DL400BC-12PFTN_to_MBM29DL400TC-90PFTN.pdf) - WonderWitch NOR flash.
 
-### WonderSwan hardware
+### cartridge
 
  * **[WSdev Wiki](https://ws.nesdev.org/wiki/Main_Page)** - the most recent and actively developed documentation source, hosted by nesdev.org.
  * [STSWS](http://perfectkiosk.net/stsws.html) - contains some information not yet on the WSdev wiki.
@@ -65,7 +65,7 @@ and assemblers typically use Intel opcode names. A translation map between the t
  * [Everything You Never Wanted to Know about the WonderSwan RTC](https://forums.nesdev.org/viewtopic.php?t=21513)
  * [Retail cartridges](https://github.com/RSDuck/nileswan/blob/main/docs/retail_cartridges.md) - cartridge logic analyzer and requirement documentation.
 
-### Other documentation
+### Accessoris
 
  * [splashbuilder readme](https://github.com/Godzil/splashbuilder/blob/master/README.md) - WonderSwan Color custom boot splash format.
  * [.WSR file format documentation](archive/in_wsr.txt) (Japanese) - popular WonderSwan standalone/emulated music file format.
