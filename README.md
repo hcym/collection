@@ -80,6 +80,9 @@
 * [或者看这里](./FC/NES锁区解锁方法.pdf).
 #### FC-RGB
   * [LAVA-FC](http://www.lava-fc.top/) - 国产FC-rgb套件，开发作者炸大猫king.
+  * [LAVARSC LITE](./FC/LavaRSCLite.zip)- 炸大猫开源的支持RGB,Svideo和复合视频信号的开源FCpcb。
+#### FC改任天堂多功能尾插
+  * [diy尾插](./FC/diy任天堂多功能尾插.zip)
 ### 卡带
  * [STSWS](http://perfectkiosk.net/stsws.html) - contains some information not yet on the WSdev wiki.
  * [WSMan](http://daifukkat.su/docs/wsman/) - older documentation source.
