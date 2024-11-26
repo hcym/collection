@@ -9,7 +9,7 @@
 - [Gameboy](#Gameboy) 
 - [SFC](#SFC)
 - [MD](#MD)
-- [GBP&GBC](#GBP&GBC)
+- [GBPGBC](#GBPGBC)
 - [GBA](#GBA)
 - [WSC](#WSC)
 - [nds](#nds)
@@ -174,4 +174,5 @@
 
 
 
-## GBP&GBC
+## GBPGBC
+
