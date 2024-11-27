@@ -120,7 +120,7 @@
  * [SFC视频输出口3d复刻件](https://github.com/TRP-Retromods/SNES_AV_Connector) 
  * [PAL制sfc复刻](https://github.com/stonedDiscord/nonSNES)
  * [超任rgbs转VGA输出](https://github.com/jeffqchen/SNES2VGA)
-
+ * [sfc蓝牙接收器 BR分支](https://github.com/darthcloud/BlueRetro/wiki/BlueRetro-Cables-Build-Instructions#sfc--snes-adapter-cable)
 ### 卡带及烧录器
  * [sd2snes](https://github.com/mrehkopf/sd2snes)
  * [SNES 2mb flashcard Lorom/Hirom no save pcb](https://www.pcbway.com/project/shareproject/SNES_2_mb_flashcard_Lorom_Hirom_nosave_pcb_a6cb9002.html)
@@ -166,7 +166,7 @@
  * [各型号主板区别](https://consolemods.org/wiki/Genesis:Motherboard_Differences)
  * [rgbs转vga](https://github.com/jeffqchen/9DIN2VGA)
  * [复刻世嘉MDCD机主板](https://github.com/Board-Folk/MegaCD-Main-BD)
-
+ * [MD蓝牙接收器HW1 BR分支](https://github.com/darthcloud/BlueRetro/wiki/BlueRetro-Cables-Build-Instructions#genesis-adapter-cable)
  ### 卡带及烧录器
  * [Genesis FeRAM Cart芯片记忆卡5V](https://github.com/soniccd123/Genesis-FeRAM-Cart)
  * [OpenDrive-Genesis芯片记忆卡带3V电平转换](https://github.com/soniccd123/OpenDrive-Genesis)
