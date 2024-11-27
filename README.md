@@ -87,6 +87,8 @@
 #### VIS_Modding改装
  * [VIS_Game_Boy_DMG支持原装屏幕的完全复刻](https://www.pcbway.com/project/shareproject/Replacement_PCB_for_the_original_gameboy_DMG_with_1_watt_speaker_lipo_battery_a_745f43ad.html) - 自带反显芯片，也支持锂电池、ips屏幕
  * [VIS Game Boy DMG 2.0仅支持ips屏幕](https://github.com/VISmodding/VIS-DMG-2.0/)
+#### 原装主板复刻typec-DC口
+ * [Super DMG-01](https://github.com/kamicane/Super-DMG-01)
 #### MouseBiteLabs改装
  * [Game Boy DMG Color](https://github.com/MouseBiteLabs/Game-Boy-DMG-Color) - GBC改成厚GB，仅支持ips屏幕。
 #### 内录机
@@ -95,11 +97,13 @@
  * [DMG厚GB原理图大全](./GAMEBOY/gameboy系列全原理图/) - gekkio贡献的全系列原理图,包含主板、屏幕驱动板、电源板、耳机板
 ### 卡带及烧录器
  * [MBC1电池存档卡](https://github.com/MouseBiteLabs/Game-Boy-MBC1-Cartridge)
+ * [MBC1芯片存档卡-小吞](./GAMEBOY/卡带相关/ProPrj_MBC1%20%20FRAM（AM29F016）(定稿)_2024-09-28.epro)
  * [原装mbc1改烧录卡](https://github.com/timville85/MBC1-Flash)
  * [MBC1芯片存档卡](https://github.com/ConsolesandCasks/MBC1-Jumper-Flash)
  * 烧录器统一见后文GBA部分
  * [卡带按mbcx分类查询](https://gbhwdb.gekkio.fi/cartridges/)
-
+### GB卡带示波器
+ * [GBDSO](https://github.com/pyroesp/GBDSO)
 
 ## SFC
 ### 本体mod
@@ -145,7 +149,7 @@
    * [安装教程](https://immerhax.com/?p=386)
  * [Switchless_SEGA_MasterSystem_MegaDrive](https://github.com/borti4938/Switchless_SEGA_MasterSystem_MegaDrive)
    * [教程](https://www.consolesunleashed.com/guides/sega-mega-drive-switchless-region-mod-install-guide/srsltid=AfmBOor8aeRmFNeUghGUDB7NJx2qkr_vsDF6CyV0qAYE3aI9WQ8uvczm)
- * [Megadrive++](https://github.com/SukkoPera/MegaDrivePlusPlus)
+ * [Megadrive++](https://github.com/SukkoPera/MegaDrivePlusPlus) - 转区、手柄复位等功能
  * [md++简易版](https://github.com/pcm720/mdpp-r)
  * [双晶振模块](https://immerhax.com/?p=386)
    * [双晶振模块教程](https://www.consolesunleashed.com/guides/sega-mega-drive-dual-frequency-oscillator-install-guide/)
@@ -157,6 +161,7 @@
  * [MD原理图](./MD/原理图/)
  * [各型号主板区别](https://consolemods.org/wiki/Genesis:Motherboard_Differences)
  * [rgbs转vga](https://github.com/jeffqchen/9DIN2VGA)
+ * [复刻世嘉MDCD机主板](https://github.com/Board-Folk/MegaCD-Main-BD)
 
  ### 卡带及烧录器
  * [Genesis FeRAM Cart芯片记忆卡5V](https://github.com/soniccd123/Genesis-FeRAM-Cart)
@@ -184,3 +189,30 @@
 
 ## GBPGBC
 
+### 本体mod
+ * []()
+ * []()
+ * [GBC 主板复刻](https://github.com/ConsolesandCasks/Game-Boy-Pocket-Color) - 采用gbpc原理图仅支持ips屏
+ * [gbc电源板复刻支持原装屏幕](https://github.com/ConsolesandCasks/CGB-R)
+ * [GBC CPU-04主板逆向](https://github.com/nataliethenerd/CGB_ReverseEngineer)
+ * [CPU-E gbc改gbpc](https://github.com/nataliethenerd/CPU-E-MGBC)
+ * [系列原理图](./GAMEBOY/gameboy系列全原理图/MGB/)
+
+### 卡带及烧录器
+* [MBC5震动卡合卡5V芯片](https://github.com/conker19to21/Game-Boy-MBC5-Rumble-Multicart) - 需要原装MBC5 电池存档 MouseBiteLabs版改进
+* [NekoCart](https://github.com/zephray/NekoCart-GB) Xilinx cpld模拟mbc芯片
+* [正版卡改烧录卡各种flash转接板](https://github.com/JRodrigoTech/FLASH-ROM-Adapter-for-GameBoy)
+* [MBC3时钟烧录卡5V芯片](https://github.com/MouseBiteLabs/Game-Boy-MBC3-Cartridge) - 电池存档MouseBiteLabs版
+* [MBC3时钟烧录卡5V芯片](https://github.com/HDR/MBC3-Flashcart) - 芯片存档
+* [MBC5烧录卡5V](https://github.com/HDR/MBC5-Flashcart) -芯片存档
+* [gb相机卡复刻](https://github.com/HDR/Gameboy-Camera-Flashcart) - 需要原装卡芯片
+* [MBC30口袋水晶烧录卡复刻](https://github.com/HDR/MBC30-Flashcart) - 水晶专用版型
+* [白橙复刻3V芯片的MBC5震动卡](https://oshwhub.com/chrise/gameboy-mbc5-flashcart) - 芯片存档
+* [小吞复刻3V芯片的MBC3时钟卡](https://oshwhub.com/hetunzi/mbc3-ldo-sram-test4) - 电池存档
+* [小吞复刻3V芯片的MBC5](./GAMEBOY/卡带相关/ProPrj_MBC5%20电池%20(ldo)定稿_2024-09-28.epro) - 电池存档
+* [Chisflash-MBC5](./GAMEBOY/卡带相关/chisflash%20mbc5/) - 支持nds烧录
+* [正版卡pcb复刻](https://github.com/HDR/NintendoPCBs)
+* [烧录器见GBA部分](#GBA)
+
+
+## GBA
