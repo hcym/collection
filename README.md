@@ -21,7 +21,8 @@
 - [game&watch](#game&watch)
 ## 介绍
 
-我们将从任天堂最早的掌机Gameboy和家用机FC/NES开始说起，直到WII/PS2
+我们将从任天堂最早的掌机Gameboy和家用机FC/NES开始说起，直到WII/PS2。文章内容来自多个网站如：
+* [consolemods](https://consolemods.org/wiki/Main_Page)
 
 ## Famicom
 ### 本体mod
