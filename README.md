@@ -111,6 +111,7 @@
  * [sfc jr 改s端子](./SFC/sfc%20jr%20改s端子.zip)
  * [SFC视频输出口3d复刻件](https://github.com/TRP-Retromods/SNES_AV_Connector) 
  * [PAL制sfc复刻](https://github.com/stonedDiscord/nonSNES)
+ * [超任rgbs转VGA输出](https://github.com/jeffqchen/SNES2VGA)
 
 ### 卡带及烧录器
  * [sd2snes](https://github.com/mrehkopf/sd2snes)
@@ -155,6 +156,7 @@
  * [MD改S端子](https://consolemods.org/wiki/Genesis:S-Video_Mod)
  * [MD原理图](./MD/原理图/)
  * [各型号主板区别](https://consolemods.org/wiki/Genesis:Motherboard_Differences)
+ * [rgbs转vga](https://github.com/jeffqchen/9DIN2VGA)
 
  ### 卡带及烧录器
  * [Genesis FeRAM Cart芯片记忆卡5V](https://github.com/soniccd123/Genesis-FeRAM-Cart)
