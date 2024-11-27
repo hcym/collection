@@ -49,6 +49,8 @@
 #### [红白机工程原理图](https://oshwhub.com/ayong82/hong-bai-ji-fu-ke_copy)
 #### FC CIC 复刻
   * [avrciczz-ATTINY13](./FC/avrciczz-master.zip)
+#### FC NES 蓝牙接收器
+  * [blueretro HW1 分支](https://github.com/darthcloud/BlueRetro/wiki/BlueRetro-Cables-Build-Instructions#fc--nes-adapter-cable)
 ### 卡带及烧录器
  * [Coolgirl-Multicart(原版0402容阻)](https://github.com/ClusterM/coolgirl-famicom-multicart) - 俄罗斯作者Cluster的原版卡带及烧录器，使用Diptrace设计，容阻为0402封装，焊接难度较高。
    * [Famicom-dumper-writer 新版烧录器stm32+cpld](https://github.com/ClusterM/famicom-dumper-writer)- 烧录器需要配合[rom生成工具](https://github.com/ClusterM/coolgirl-multirom-builder)和[客户端](https://github.com/ClusterM/famicom-dumper-client)
@@ -77,6 +79,7 @@
  * [NES手柄转USB](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB/tree/master/NESControllersUSB)
  * [NES光枪](https://boojakascha.ch/index.php?page=NESLCDgun)
  * [鼠标转nes手柄](https://github.com/HotPixelChannel/Mouse-To-NES)
+
 ### 游戏资源及工具
  * [FC & FDS & NES 精选游戏 717](./FC/FC%20&%20FDS%20&%20NES%20精选游戏%20717.zip)
  * [mapper分类工具](./FC/各种工具/MapperTools.exe)
