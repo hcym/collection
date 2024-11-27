@@ -238,7 +238,7 @@
 
 ### 本体mod
  * [agb-03主板复刻](https://github.com/nataliethenerd/AGB_ReverseEngineer)
-  * [文件](./GBA/AGB_ReverseEngineer-main.zip)
+   * [文件](./GBA/AGB_ReverseEngineer-main.zip)
  * [gbasp原理图](./GAMEBOY/gameboy系列全原理图/AGS/)
  * [gbasp普亮复刻主板](https://oshwhub.com/morinaka/mori-de-gbasp-yuan-ji-fu-ke)
  * [gbasp改TYPEC充电](https://github.com/thatdecade/gba-sp-usb-c)
@@ -250,7 +250,7 @@
  * [chisflash1.0普罗米修斯](https://oshwhub.com/chisbread/chisflash-prometheus) - 1M fram
    * [固件](./GBA/固件/chisflash1.0普罗米修斯.pof)
  * [ChisFlash V0.1 青春版 ](https://oshwhub.com/chisbread/chisflash-pichu) - 1M sram
-    * [固件](./GBA/固件/chisflash0.1青春版.pof)
+   * [固件](./GBA/固件/chisflash0.1青春版.pof)
  * [ChisFlash v1.1 雪拉比 时钟卡](https://oshwhub.com/chisbread/chisflash-celebi) - 1Mflash+RTC 固件未开源
  * [ChisFlash v1.2 大岩蛇 震动卡](./GBA/开源卡带pcb/chisflash1.2震动卡.epro) - 1MFRAM+震动 固件未开源
  * [ChisFlash v1.1.1 老男人特供flash卡](./GBA/开源卡带pcb/老男人特供flash卡.epro)
