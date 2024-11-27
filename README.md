@@ -133,14 +133,14 @@
    * [安装教程](https://immerhax.com/?p=386)
  * [Switchless_SEGA_MasterSystem_MegaDrive](https://github.com/borti4938/Switchless_SEGA_MasterSystem_MegaDrive)
    * [教程](https://www.consolesunleashed.com/guides/sega-mega-drive-switchless-region-mod-install-guide/srsltid=AfmBOor8aeRmFNeUghGUDB7NJx2qkr_vsDF6CyV0qAYE3aI9WQ8uvczm)
- * [Megadrive++](https://github.com/SukkoPera/MegaDrivePlusPlus) - 转区、手柄复位等功能
+ * [Megadrive++](https://github.com/SukkoPera/MegaDrivePlusPlus) - 转区、改制式、手柄复位等功能
  * [md++简易版](https://github.com/pcm720/mdpp-r)
  * [双晶振模块](https://immerhax.com/?p=386)
    * [双晶振模块教程](https://www.consolesunleashed.com/guides/sega-mega-drive-dual-frequency-oscillator-install-guide/)
- * [初版triple bypass模块](https://github.com/db-electronics/triple-bypass-kicad) - MD视频音频增强模块，绕过原始电路。
+ * [初版triple bypass模块](https://github.com/db-electronics/triple-bypass-kicad) - MD三旁路模块，视频音频增强模块，绕过原始电路。
  * [Triple Bypass Version 2](https://github.com/tianfeng33/triple-bypass-Version-2) - 在初版基础上的更新
  * [Triple Bypass V2 Plus](https://github.com/zaxour/TripleBypassV2Plus) -在V2版本基础上的更新
- * [Mega Amp 2.0 Pro](https://github.com/TRP-Retromods/MegaAmp2Pro) - 音频改善模块
+ * [Mega Amp 2.0 Pro](https://github.com/TRP-Retromods/MegaAmp2Pro) - 音频改善模块非常适用于一些音效差的型号
  * [MD改S端子](https://consolemods.org/wiki/Genesis:S-Video_Mod)
  * [MD原理图](./MD/原理图/)
  * [各型号主板区别](https://consolemods.org/wiki/Genesis:Motherboard_Differences)
@@ -249,9 +249,6 @@
 ### 卡带及烧录器
  * [chisflash1.0普罗米修斯](https://oshwhub.com/chisbread/chisflash-prometheus) - 1M fram
    * [固件](./GBA/固件/chisflash1.0普罗米修斯.pof)
-
-   * [固件]()
-   * []()
  * [ChisFlash V0.1 青春版 ](https://oshwhub.com/chisbread/chisflash-pichu) - 1M sram
     * [固件](./GBA/固件/chisflash0.1青春版.pof)
  * [ChisFlash v1.1 雪拉比 时钟卡](https://oshwhub.com/chisbread/chisflash-celebi) - 1Mflash+RTC 固件未开源
@@ -260,11 +257,7 @@
    * [固件](./GBA/固件/ChisFlash1MFlash%20完美Flash识别固件+512Kb补丁.zip)
  * [烧录器旧版1.3gbxcart](https://www.pcbway.com/project/shareproject/FLASH_DIP_40_gb_gba_reader_burner_flashgbx_compatible_b89f0985.html) - 已经过时 固件hex可以在flashgbx的文件夹中找到cfw.hex(AVR熔丝位设置高位熔丝是0xda，低位是0xaf)
  * [BaconFlasher - GB/GBA卡带SPI读写模块](https://oshwhub.com/chisbread/baconflasher)
-  * [配套PC端程序](改版FlashGBX：https://github.com/ChisBread/FlashGBX)
+   * [配套PC端程序](改版FlashGBX：https://github.com/ChisBread/FlashGBX)
 
-### 外设
- * []()
- * []()
- * []()
- * []()
- * []()
+### 烧录相关
+
