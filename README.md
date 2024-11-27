@@ -93,7 +93,8 @@
  * [SNES RGB BYPASS MOD](https://github.com/borti4938/SNES_RGB_Bypass) - 包括1chip、JR和早期2chip的机型改装。
   * [2chip改rgb模块](https://www.pcbway.com/project/shareproject/W441760ASH29_2chip_snes_rgbmod_519bcb95.html)
  * [SNES_MultiRegion_with_DeJitter_QID](https://github.com/borti4938/SNES_MultiRegion_with_DeJitter_QID) - sfc用全区全制式模块以及去抖动。
- * [supercic](https://github.com/FluBBaOfWard/WSTimingTest) - V30MZ CPU timing
+ * [supercic](./SFC/supercic.zip) - PIC12619
+   * [网址](https://sd2snes.de/blog/cool-stuff/supercic)
  * [sfc原理图](./SFC/snes_schematic_color.pdf)
  * [sfc jr 改s端子](./SFC/sfc%20jr%20改s端子.zip)
  * [SFC视频输出口3d复刻件](https://github.com/TRP-Retromods/SNES_AV_Connector) 
