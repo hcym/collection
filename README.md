@@ -145,7 +145,9 @@
  * [md++简易版](https://github.com/pcm720/mdpp-r)
  * [双晶振模块](https://immerhax.com/?p=386)
    * [双晶振模块教程](https://www.consolesunleashed.com/guides/sega-mega-drive-dual-frequency-oscillator-install-guide/)
- * [MD各型号TripleBypass](https://github.com/zaxour/TripleBypassV2Plus) -RGB增强模块
+ * [初版triple bypass模块](https://github.com/db-electronics/triple-bypass-kicad) - MD视频音频增强模块，绕过原始电路。
+ * [Triple Bypass Version 2](https://github.com/tianfeng33/triple-bypass-Version-2) - 在初版基础上的更新
+ * [Triple Bypass V2 Plus](https://github.com/zaxour/TripleBypassV2Plus) -在V2版本基础上的更新
  * [MD改S端子](https://consolemods.org/wiki/Genesis:S-Video_Mod)
  * [MD原理图](./MD/原理图/)
  * [各型号主板区别](https://consolemods.org/wiki/Genesis:Motherboard_Differences)
