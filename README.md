@@ -51,7 +51,8 @@
   * [avrciczz-ATTINY13](./FC/avrciczz-master.zip)
 ### 卡带及烧录器
  * [Coolgirl-Multicart(原版0402容阻)](https://github.com/ClusterM/coolgirl-famicom-multicart) - 俄罗斯作者Cluster的原版卡带及烧录器，使用Diptrace设计，容阻为0402封装，焊接难度较高。
-   * [Famicom-dumper-writer](https://github.com/ClusterM/famicom-dumper-writer)- 烧录器需要配合[rom生成工具](https://github.com/ClusterM/coolgirl-multirom-builder)和[客户端](https://github.com/ClusterM/famicom-dumper-client)
+   * [Famicom-dumper-writer 新版烧录器stm32+cpld](https://github.com/ClusterM/famicom-dumper-writer)- 烧录器需要配合[rom生成工具](https://github.com/ClusterM/coolgirl-multirom-builder)和[客户端](https://github.com/ClusterM/famicom-dumper-client)
+ * [旧版famicom-dumper-writer avr版](https://github.com/ClusterM/famicom-dumper)
  * [FC-kazzo烧录卡-8MB](https://oshwhub.com/hujie888/fc_2flash_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy) - 国内作者沐沐开源，支持mapper45,52,176。需要使用kazzo烧录。
  * [FC-MIX-epm240游戏卡](https://oshwhub.com/firseve/fc_mapper_240_copy)
  * [mapper4卡带](https://oshwhub.com/ayong82/fc-hong-bai-jimapper4-you-hu-ka-dian-lu)
@@ -190,8 +191,8 @@
 ## GBPGBC
 
 ### 本体mod
- * []()
- * []()
+ * [电源板 仅支持ips版](https://github.com/Jackv-makes/SGR/)
+ * [GBC改gbp 仅支持ips屏幕](https://github.com/MouseBiteLabs/Game-Boy-Pocket-Color)
  * [GBC 主板复刻](https://github.com/ConsolesandCasks/Game-Boy-Pocket-Color) - 采用gbpc原理图仅支持ips屏
  * [gbc电源板复刻支持原装屏幕](https://github.com/ConsolesandCasks/CGB-R)
  * [GBC CPU-04主板逆向](https://github.com/nataliethenerd/CGB_ReverseEngineer)
@@ -212,7 +213,17 @@
 * [小吞复刻3V芯片的MBC5](./GAMEBOY/卡带相关/ProPrj_MBC5%20电池%20(ldo)定稿_2024-09-28.epro) - 电池存档
 * [Chisflash-MBC5](./GAMEBOY/卡带相关/chisflash%20mbc5/) - 支持nds烧录
 * [正版卡pcb复刻](https://github.com/HDR/NintendoPCBs)
+* [gba卡带版型的MBC5卡带](https://github.com/nm3210/GB_Flashcarts)
 * [烧录器见GBA部分](#GBA)
 
 
 ## GBA
+
+
+### 本体mod
+
+
+### 卡带及烧录器
+
+
+### 外设
