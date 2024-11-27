@@ -100,7 +100,7 @@
  * [MBC1芯片存档卡-小吞](./GAMEBOY/卡带相关/ProPrj_MBC1%20%20FRAM（AM29F016）(定稿)_2024-09-28.epro)
  * [原装mbc1改烧录卡](https://github.com/timville85/MBC1-Flash)
  * [MBC1芯片存档卡](https://github.com/ConsolesandCasks/MBC1-Jumper-Flash)
- * 烧录器统一见后文GBA部分
+ * [烧录器统一见后文GBA部分](#GBA)
  * [卡带按mbcx分类查询](https://gbhwdb.gekkio.fi/cartridges/)
 ### GB卡带示波器
  * [GBDSO](https://github.com/pyroesp/GBDSO)
