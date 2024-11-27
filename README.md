@@ -247,11 +247,20 @@
  * [GBA锂电池充电模块](https://oshwhub.com/morinaka/moripower-gba-yong-li-dian-chong-fang-mo-kuai)
  * [GBA逆向文档](https://problemkaputt.de/gbatek.htm#gbacartbackupids)
 ### 卡带及烧录器
- * []()
- * []()
- * []()
- * []()
- * [烧录器旧版1.3gbxcart](https://www.pcbway.com/project/shareproject/FLASH_DIP_40_gb_gba_reader_burner_flashgbx_compatible_b89f0985.html) - 已经过时
+ * [chisflash1.0普罗米修斯](https://oshwhub.com/chisbread/chisflash-prometheus) - 1M fram
+   * [固件](./GBA/固件/chisflash1.0普罗米修斯.pof)
+
+   * [固件]()
+   * []()
+ * [ChisFlash V0.1 青春版 ](https://oshwhub.com/chisbread/chisflash-pichu) - 1M sram
+    * [固件](./GBA/固件/chisflash0.1青春版.pof)
+ * [ChisFlash v1.1 雪拉比 时钟卡](https://oshwhub.com/chisbread/chisflash-celebi) - 1Mflash+RTC 固件未开源
+ * [ChisFlash v1.2 大岩蛇 震动卡](./GBA/开源卡带pcb/chisflash1.2震动卡.epro) - 1MFRAM+震动 固件未开源
+ * [ChisFlash v1.1.1 老男人特供flash卡](./GBA/开源卡带pcb/老男人特供flash卡.epro)
+   * [固件](./GBA/固件/ChisFlash1MFlash%20完美Flash识别固件+512Kb补丁.zip)
+ * [烧录器旧版1.3gbxcart](https://www.pcbway.com/project/shareproject/FLASH_DIP_40_gb_gba_reader_burner_flashgbx_compatible_b89f0985.html) - 已经过时 固件hex可以在flashgbx的文件夹中找到cfw.hex(AVR熔丝位设置高位熔丝是0xda，低位是0xaf)
+ * [BaconFlasher - GB/GBA卡带SPI读写模块](https://oshwhub.com/chisbread/baconflasher)
+  * [配套PC端程序](改版FlashGBX：https://github.com/ChisBread/FlashGBX)
 
 ### 外设
  * []()
