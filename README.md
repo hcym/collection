@@ -109,7 +109,9 @@
  * [supercic](https://github.com/FluBBaOfWard/WSTimingTest) - V30MZ CPU timing
  * [sfc原理图](./SFC/snes_schematic_color.pdf)
  * [sfc jr 改s端子](./SFC/sfc%20jr%20改s端子.zip)
- * [Robert Peip's test ROMs](https://github.com/MiSTer-devel/WonderSwan_MiSTer/tree/main/testroms) - sprite priority/window testing tool
+ * [SFC视频输出口3d复刻件](https://github.com/TRP-Retromods/SNES_AV_Connector) 
+ * [PAL制sfc复刻](https://github.com/stonedDiscord/nonSNES)
+
 ### 卡带及烧录器
  * [sd2snes](https://github.com/mrehkopf/sd2snes)
  * [SNES 2mb flashcard Lorom/Hirom no save pcb](https://www.pcbway.com/project/shareproject/SNES_2_mb_flashcard_Lorom_Hirom_nosave_pcb_a6cb9002.html)
@@ -149,6 +151,7 @@
  * [初版triple bypass模块](https://github.com/db-electronics/triple-bypass-kicad) - MD视频音频增强模块，绕过原始电路。
  * [Triple Bypass Version 2](https://github.com/tianfeng33/triple-bypass-Version-2) - 在初版基础上的更新
  * [Triple Bypass V2 Plus](https://github.com/zaxour/TripleBypassV2Plus) -在V2版本基础上的更新
+ * [Mega Amp 2.0 Pro](https://github.com/TRP-Retromods/MegaAmp2Pro) - 音频改善模块
  * [MD改S端子](https://consolemods.org/wiki/Genesis:S-Video_Mod)
  * [MD原理图](./MD/原理图/)
  * [各型号主板区别](https://consolemods.org/wiki/Genesis:Motherboard_Differences)
