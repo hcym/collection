@@ -6,9 +6,9 @@
 
 - [介绍](#介绍)
 - [Famicom](#Famicom)
-- [Gameboy](#Gameboy) 
 - [SFC](#SFC)
 - [MD](#MD)
+- [Gameboy](#Gameboy) 
 - [GBPGBC](#GBPGBC)
 - [GBA](#GBA)
 - [WSC](#WSC)
@@ -85,29 +85,6 @@
  * [mapper分类工具](./FC/各种工具/MapperTools.exe)
  * [旋风大佬网盘链接](http://flamecyclone.ysepan.com/)
 
-
-## Gameboy
-### 设备本体mod
-#### VIS_Modding改装
- * [VIS_Game_Boy_DMG支持原装屏幕的完全复刻](https://www.pcbway.com/project/shareproject/Replacement_PCB_for_the_original_gameboy_DMG_with_1_watt_speaker_lipo_battery_a_745f43ad.html) - 自带反显芯片，也支持锂电池、ips屏幕
- * [VIS Game Boy DMG 2.0仅支持ips屏幕](https://github.com/VISmodding/VIS-DMG-2.0/)
-#### 原装主板复刻typec-DC口
- * [Super DMG-01](https://github.com/kamicane/Super-DMG-01)
-#### MouseBiteLabs改装
- * [Game Boy DMG Color](https://github.com/MouseBiteLabs/Game-Boy-DMG-Color) - GBC改成厚GB，仅支持ips屏幕。
-#### 内录机
- * [GBHDMI](https://github.com/Martoni/GbHdmi)
-#### 原理图
- * [DMG厚GB原理图大全](./GAMEBOY/gameboy系列全原理图/) - gekkio贡献的全系列原理图,包含主板、屏幕驱动板、电源板、耳机板
-### 卡带及烧录器
- * [MBC1电池存档卡](https://github.com/MouseBiteLabs/Game-Boy-MBC1-Cartridge)
- * [MBC1芯片存档卡-小吞](./GAMEBOY/卡带相关/ProPrj_MBC1%20%20FRAM（AM29F016）(定稿)_2024-09-28.epro)
- * [原装mbc1改烧录卡](https://github.com/timville85/MBC1-Flash)
- * [MBC1芯片存档卡](https://github.com/ConsolesandCasks/MBC1-Jumper-Flash)
- * [烧录器统一见后文GBA部分](#GBA)
- * [卡带按mbcx分类查询](https://gbhwdb.gekkio.fi/cartridges/)
-### GB卡带示波器
- * [GBDSO](https://github.com/pyroesp/GBDSO)
 
 ## SFC
 ### 本体mod
@@ -191,9 +168,38 @@
 
 
 
+## Gameboy
+### 设备本体mod
+#### VIS_Modding改装
+ * [VIS_Game_Boy_DMG支持原装屏幕的完全复刻](https://www.pcbway.com/project/shareproject/Replacement_PCB_for_the_original_gameboy_DMG_with_1_watt_speaker_lipo_battery_a_745f43ad.html) - 自带反显芯片，也支持锂电池、ips屏幕
+ * [VIS Game Boy DMG 2.0仅支持ips屏幕](https://github.com/VISmodding/VIS-DMG-2.0/)
+#### 原装主板复刻typec-DC口
+ * [Super DMG-01](https://github.com/kamicane/Super-DMG-01)
+#### MouseBiteLabs改装
+ * [Game Boy DMG Color](https://github.com/MouseBiteLabs/Game-Boy-DMG-Color) - GBC改成厚GB，仅支持ips屏幕。
+#### 加装反显芯片改背光
+ * [74hc04d改装方案](https://www.instructables.com/Game-Boy-BivertBiversion-Moditication/)
+   * [图例](./GAMEBOY/gb反显/)
+#### 内录机
+ * [GBHDMI](https://github.com/Martoni/GbHdmi)
+#### 原理图
+ * [DMG厚GB原理图大全](./GAMEBOY/gameboy系列全原理图/) - gekkio贡献的全系列原理图,包含主板、屏幕驱动板、电源板、耳机板
+### 卡带及烧录器
+ * [MBC1电池存档卡](https://github.com/MouseBiteLabs/Game-Boy-MBC1-Cartridge)
+ * [MBC1芯片存档卡-小吞](./GAMEBOY/卡带相关/ProPrj_MBC1%20%20FRAM（AM29F016）(定稿)_2024-09-28.epro)
+ * [原装mbc1改烧录卡](https://github.com/timville85/MBC1-Flash)
+ * [MBC1芯片存档卡](https://github.com/ConsolesandCasks/MBC1-Jumper-Flash)
+ * [烧录器统一见后文GBA部分](#GBA)
+ * [卡带按mbcx分类查询](https://gbhwdb.gekkio.fi/cartridges/)
+### GB卡带示波器
+ * [GBDSO](https://github.com/pyroesp/GBDSO)
+
+
+
 ## GBPGBC
 
 ### 本体mod
+ * [GBP原装屏幕改反显](./GAMEBOY/gbp反显/)
  * [电源板 仅支持ips版](https://github.com/Jackv-makes/SGR/)
  * [GBC改gbp 仅支持ips屏幕](https://github.com/MouseBiteLabs/Game-Boy-Pocket-Color)
  * [GBC 主板复刻](https://github.com/ConsolesandCasks/Game-Boy-Pocket-Color) - 采用gbpc原理图仅支持ips屏
