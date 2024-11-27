@@ -26,31 +26,31 @@
 
 ## Famicom
 ### 本体mod
-#### NES解锁区
-* [原贴](https://www.consolesunleashed.com/guides/nintendo-entertainment-system-region-free-mod-install-guide/)
-* [或者看这里](./FC/NES锁区解锁方法.pdf).
-#### FC-RGB
-  * [LAVA-FC](http://www.lava-fc.top/) - 国产FC-rgb套件，开发作者炸大猫king.
-  * [LAVARSC LITE](./FC/LavaRSCLite.zip)- 炸大猫开源的支持RGB,Svideo和复合视频信号的开源FCpcb。
-  * [89版FC加装LAVA套件](./FC/89版fc改lava——孙大师.zip)
-    * [孙大师改装newfc输出接口并加装lava套件的教程](./FC/任天堂FC89加装Lava%20FC%20RGB板，改newfc输出接口过程分享%20-%20创意DIY%20数码之家.pdf)
-  * [改lava的转接板](./FC/(红白机、NewFC、双子星)改lava转接板PCB源文件/)
-#### 89版FC改任天堂多功能尾插
-  * [diy尾插](./FC/diy任天堂多功能尾插.zip)
-#### 尾插
-  * [有竖纹简易版](https://www.pcbway.com/project/shareproject/Famicom_AV_Power_Board_bc97a170.html)
-  * [89版尾板带音频放大](https://oshwhub.com/ayong82/fc-wei-ban)
-#### 复刻NES
-  * [Opentendo](https://github.com/Redherring32/OpenTendo)
-#### 小天才复刻
-  * [复刻小天才](https://github.com/mleonid2000/dendy_junior_remastered)
-#### Candy 8bit
-  * [全集成复刻fc](https://github.com/HotPixelChannel/Candy_8bit/tree/main)
-#### [红白机工程原理图](https://oshwhub.com/ayong82/hong-bai-ji-fu-ke_copy)
-#### FC CIC 复刻
-  * [avrciczz-ATTINY13](./FC/avrciczz-master.zip)
-#### FC NES 蓝牙接收器
-  * [blueretro HW1 分支](https://github.com/darthcloud/BlueRetro/wiki/BlueRetro-Cables-Build-Instructions#fc--nes-adapter-cable)
+  * [NES解锁区]
+    * [原贴](https://www.consolesunleashed.com/guides/nintendo-entertainment-system-region-free-mod-install-guide/)
+    * [或者看这里](./FC/NES锁区解锁方法.pdf).
+  * [FC-RGB]
+    * [LAVA-FC](http://www.lava-fc.top/) - 国产FC-rgb套件，开发作者炸大猫king.
+    * [LAVARSC LITE](./FC/LavaRSCLite.zip)- 炸大猫开源的支持RGB,Svideo和复合视频信号的开源FCpcb。
+    * [89版FC加装LAVA套件](./FC/89版fc改lava——孙大师.zip)
+      * [孙大师改装newfc输出接口并加装lava套件的教程](./FC/任天堂FC89加装Lava%20FC%20RGB板，改newfc输出接口过程分享%20-%20创意DIY%20数码之家.pdf)
+      * [改lava的转接板](./FC/(红白机、NewFC、双子星)改lava转接板PCB源文件/)
+  * [89版FC改任天堂多功能尾插]
+    * [diy尾插](./FC/diy任天堂多功能尾插.zip)
+  * [其他尾插]
+    * [有竖纹简易版](https://www.pcbway.com/project/shareproject/Famicom_AV_Power_Board_bc97a170.html)
+    * [89版尾板带音频放大](https://oshwhub.com/ayong82/fc-wei-ban)
+  * [复刻NES]
+    * [Opentendo](https://github.com/Redherring32/OpenTendo)
+  * 小天才复刻
+    * [复刻小天才](https://github.com/mleonid2000/dendy_junior_remastered)
+  * [Candy 8bit]
+    * [全集成复刻fc](https://github.com/HotPixelChannel/Candy_8bit/tree/main)
+  *[红白机工程原理图](https://oshwhub.com/ayong82/hong-bai-ji-fu-ke_copy)
+  * [FC CIC 复刻]
+    * [avrciczz-ATTINY13](./FC/avrciczz-master.zip)
+  * [FC NES 蓝牙接收器]
+    * [blueretro HW1 分支](https://github.com/darthcloud/BlueRetro/wiki/BlueRetro-Cables-Build-Instructions#fc--nes-adapter-cable)
 ### 卡带及烧录器
  * [Coolgirl-Multicart(原版0402容阻)](https://github.com/ClusterM/coolgirl-famicom-multicart) - 俄罗斯作者Cluster的原版卡带及烧录器，使用Diptrace设计，容阻为0402封装，焊接难度较高。
    * [Famicom-dumper-writer 新版烧录器stm32+cpld](https://github.com/ClusterM/famicom-dumper-writer)- 烧录器需要配合[rom生成工具](https://github.com/ClusterM/coolgirl-multirom-builder)和[客户端](https://github.com/ClusterM/famicom-dumper-client)
@@ -170,20 +170,20 @@
 
 ## Gameboy
 ### 设备本体mod
-#### VIS_Modding改装
- * [VIS_Game_Boy_DMG支持原装屏幕的完全复刻](https://www.pcbway.com/project/shareproject/Replacement_PCB_for_the_original_gameboy_DMG_with_1_watt_speaker_lipo_battery_a_745f43ad.html) - 自带反显芯片，也支持锂电池、ips屏幕
- * [VIS Game Boy DMG 2.0仅支持ips屏幕](https://github.com/VISmodding/VIS-DMG-2.0/)
-#### 原装主板复刻typec-DC口
- * [Super DMG-01](https://github.com/kamicane/Super-DMG-01)
-#### MouseBiteLabs改装
- * [Game Boy DMG Color](https://github.com/MouseBiteLabs/Game-Boy-DMG-Color) - GBC改成厚GB，仅支持ips屏幕。
-#### 加装反显芯片改背光
- * [74hc04d改装方案](https://www.instructables.com/Game-Boy-BivertBiversion-Moditication/)
+ * VIS_Modding改装
+   * [VIS_Game_Boy_DMG支持原装屏幕的完全复刻](https://www.pcbway.com/project/shareproject/Replacement_PCB_for_the_original_gameboy_DMG_with_1_watt_speaker_lipo_battery_a_745f43ad.html) - 自带反显芯片，也支持锂电池、ips屏幕
+   * [VIS Game Boy DMG 2.0仅支持ips屏幕](https://github.com/VISmodding/VIS-DMG-2.0/)
+ * 原装主板复刻typec-DC口
+   * [Super DMG-01](https://github.com/kamicane/Super-DMG-01)
+ * MouseBiteLabs改装
+   * [Game Boy DMG Color](https://github.com/MouseBiteLabs/Game-Boy-DMG-Color) - GBC改成厚GB，仅支持ips屏幕。
+ * 加装反显芯片改背光
+   * [74hc04d改装方案](https://www.instructables.com/Game-Boy-BivertBiversion-Moditication/)
    * [图例](./GAMEBOY/gb反显/)
-#### 内录机
- * [GBHDMI](https://github.com/Martoni/GbHdmi)
-#### 原理图
- * [DMG厚GB原理图大全](./GAMEBOY/gameboy系列全原理图/) - gekkio贡献的全系列原理图,包含主板、屏幕驱动板、电源板、耳机板
+ * 内录机
+   * [GBHDMI](https://github.com/Martoni/GbHdmi)
+ * 原理图
+   * [DMG厚GB原理图大全](./GAMEBOY/gameboy系列全原理图/) - gekkio贡献的全系列原理图,包含主板、屏幕驱动板、电源板、耳机板
 ### 卡带及烧录器
  * [MBC1电池存档卡](https://github.com/MouseBiteLabs/Game-Boy-MBC1-Cartridge)
  * [MBC1芯片存档卡-小吞](./GAMEBOY/卡带相关/ProPrj_MBC1%20%20FRAM（AM29F016）(定稿)_2024-09-28.epro)
