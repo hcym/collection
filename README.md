@@ -257,7 +257,7 @@
    * [固件](./GBA/固件/ChisFlash1MFlash%20完美Flash识别固件+512Kb补丁.zip)
  * [烧录器旧版1.3gbxcart](https://www.pcbway.com/project/shareproject/FLASH_DIP_40_gb_gba_reader_burner_flashgbx_compatible_b89f0985.html) - 已经过时 固件hex可以在flashgbx的文件夹中找到cfw.hex(AVR熔丝位设置高位熔丝是0xda，低位是0xaf)
  * [BaconFlasher - GB/GBA卡带SPI读写模块](https://oshwhub.com/chisbread/baconflasher)
-   * [配套PC端程序](改版FlashGBX：https://github.com/ChisBread/FlashGBX)
+   * [配套PC端程序](https://github.com/ChisBread/FlashGBX)
 
 ### 烧录相关
 
