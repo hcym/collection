@@ -118,6 +118,7 @@
  * [原装双ic手柄pcb](https://www.pcbway.com/project/shareproject/SNES_OEM_Controller_PCB_Replacement_a41ce13c.html)
  * [sfc手柄改无线](https://yakaracolombia.github.io/esp32-online-tool/snes.html)- [原理图见此](./SFC/sfc手柄改无线.jpg)
  * [sfc手柄转USB](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB/tree/master/SNESControllersUSB)
+ * [2 NES/SNES 手柄转usb](2https://www.raphnet.net/electronique/2nes2usb/index_en.php)
  ### 软件、rom及周边
  * [SFC游戏rom处理工具1](./SFC/Advanced_SNES_ROM_Utility.exe)-[SFC游戏rom处理工具2](./SFC/IpsAndSum.exe)
  * [SFC游戏老男人精选毕业包v1.0](./SFC/SFC游戏老男人精选毕业包v1.0.zip)
@@ -182,6 +183,7 @@
  * 加装反显芯片改背光
    * [74hc04d改装方案](https://www.instructables.com/Game-Boy-BivertBiversion-Moditication/)
    * [图例](./GAMEBOY/gb反显/)
+   * [图文教程](https://consolemods.org/wiki/Game_Boy:Backlight_Mod)
  * 内录机
    * [GBHDMI](https://github.com/Martoni/GbHdmi)
  * 原理图
@@ -195,7 +197,10 @@
  * [卡带按mbcx分类查询](https://gbhwdb.gekkio.fi/cartridges/)
 ### GB卡带示波器
  * [GBDSO](https://github.com/pyroesp/GBDSO)
-
+### 游戏资源精选
+ * [老男人精选gameboy游戏](./GAMEBOY/GAMEBOY游戏老男人精选毕业包v1.0.zip)
+### gameboy屏幕检测rom
+ * [240ptest](./GAMEBOY/gb240p.gb)
 
 
 ## GBPGBC
@@ -232,9 +237,25 @@
 
 
 ### 本体mod
-
-
+ * [agb-03主板复刻](https://github.com/nataliethenerd/AGB_ReverseEngineer)
+  * [文件](./GBA/AGB_ReverseEngineer-main.zip)
+ * [gbasp原理图](./GAMEBOY/gameboy系列全原理图/AGS/)
+ * [gbasp普亮复刻主板](https://oshwhub.com/morinaka/mori-de-gbasp-yuan-ji-fu-ke)
+ * [gbasp改TYPEC充电](https://github.com/thatdecade/gba-sp-usb-c)
+ * [gba内录机](https://github.com/zwenergy/gbaHD)
+   * [内录机all in one](https://github.com/Zekfoo/gbaHD-AIO-Shield)
+ * [GBA锂电池充电模块](https://oshwhub.com/morinaka/moripower-gba-yong-li-dian-chong-fang-mo-kuai)
+ * [GBA逆向文档](https://problemkaputt.de/gbatek.htm#gbacartbackupids)
 ### 卡带及烧录器
-
+ * []()
+ * []()
+ * []()
+ * []()
+ * [烧录器旧版1.3gbxcart](https://www.pcbway.com/project/shareproject/FLASH_DIP_40_gb_gba_reader_burner_flashgbx_compatible_b89f0985.html) - 已经过时
 
 ### 外设
+ * []()
+ * []()
+ * []()
+ * []()
+ * []()
