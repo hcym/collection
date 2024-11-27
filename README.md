@@ -46,7 +46,7 @@
     * [复刻小天才](https://github.com/mleonid2000/dendy_junior_remastered)
   * [Candy 8bit]
     * [全集成复刻fc](https://github.com/HotPixelChannel/Candy_8bit/tree/main)
-  *[红白机工程原理图](https://oshwhub.com/ayong82/hong-bai-ji-fu-ke_copy)
+  * [红白机工程原理图](https://oshwhub.com/ayong82/hong-bai-ji-fu-ke_copy)
   * [FC CIC 复刻]
     * [avrciczz-ATTINY13](./FC/avrciczz-master.zip)
   * [FC NES 蓝牙接收器]
