@@ -118,7 +118,7 @@
  * [原装双ic手柄pcb](https://www.pcbway.com/project/shareproject/SNES_OEM_Controller_PCB_Replacement_a41ce13c.html)
  * [sfc手柄改无线](https://yakaracolombia.github.io/esp32-online-tool/snes.html)- [原理图见此](./SFC/sfc手柄改无线.jpg)
  * [sfc手柄转USB](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB/tree/master/SNESControllersUSB)
- * [2 NES/SNES 手柄转usb](2https://www.raphnet.net/electronique/2nes2usb/index_en.php)
+ * [NES/SNES 双手柄转usb](https://www.raphnet.net/electronique/2nes2usb/index_en.php)
  ### 软件、rom及周边
  * [SFC游戏rom处理工具1](./SFC/Advanced_SNES_ROM_Utility.exe)-[SFC游戏rom处理工具2](./SFC/IpsAndSum.exe)
  * [SFC游戏老男人精选毕业包v1.0](./SFC/SFC游戏老男人精选毕业包v1.0.zip)
