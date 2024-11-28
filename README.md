@@ -356,6 +356,8 @@
        * 适用于较旧/其他基于 CPLD 的 N64RGB 套件的电源调节器
        * 基于 THS7374 的 N64 RGB 放大器已输出 RGB
  * [PicoDVI-N64](https://github.com/kbeckmann/PicoDVI-N64) - 基于树莓派 Pico的N64 DVI输出模块
+ #### nus-004主板原理图
+  * [文件](./N64/N64_NUS-004_Board_Files.zip)
 
  #### N64 蓝牙接收器
  * [Blueretro分支](https://github.com/darthcloud/BlueRetro/wiki/BlueRetro-Cables-Build-Instructions#nintendo-64-adapter-cable)
@@ -370,5 +372,5 @@
   *[原装手柄改蓝牙飞线版](https://yakaracolombia.github.io/esp32-online-tool/n64.html)
   *[开源4M扩展卡](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak)
   *[OEM4M扩展卡](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak)
-  *[]()
+  *[神游64自制AV线](./N64/N64_NUS-004_Board_Files.zip)
 
