@@ -104,7 +104,7 @@
 ### 卡带及烧录器
  * [sd2snes](https://github.com/mrehkopf/sd2snes)
  * [SNES 2mb flashcard Lorom/Hirom no save pcb](https://www.pcbway.com/project/shareproject/SNES_2_mb_flashcard_Lorom_Hirom_nosave_pcb_a6cb9002.html)
- * **[Super Nintendo Game Cartridges](https://github.com/MouseBiteLabs/Super-Nintendo-Cartridges)**
+ * **[Mousebit labs 二合一烧录卡](https://github.com/MouseBiteLabs/Super-Nintendo-Cartridges)** - 推荐此卡，可加ldo更换3Vflash，复位键更换游戏，支持特殊芯片卡外所有游戏。
  * [Snes Flash cart by RetroCircuits](https://www.pcbway.com/project/shareproject/Snes_Flash_cart_by_RetroCircuits_dc8cc488.html)
  * [SNES M27C801 HiRom 8Mib 无存档单卡5V片](https://www.pcbway.com/project/shareproject/SNES_M27C801_HiRom_8Mib_without_save_PCB_Single_Game_b414b148.html)
  * [SNES M27C801 LoRom 8Mib 无存档单卡5V片](https://www.pcbway.com/project/shareproject/SNES_M27C801_LoRom_8Mib_without_save_PCB_Single_Game_b11b7da3.html)
@@ -228,7 +228,7 @@
 * [白橙复刻3V芯片的MBC5震动卡](https://oshwhub.com/chrise/gameboy-mbc5-flashcart) - 芯片存档
 * [小吞复刻3V芯片的MBC3时钟卡](https://oshwhub.com/hetunzi/mbc3-ldo-sram-test4) - 电池存档
 * [小吞复刻3V芯片的MBC5](./GAMEBOY/卡带相关/ProPrj_MBC5%20电池%20(ldo)定稿_2024-09-28.epro) - 电池存档
-* [Chisflash-MBC5](./GAMEBOY/卡带相关/chisflash%20mbc5/) - 支持nds烧录
+* [Chisflash-MBC5@mori](https://oshwhub.com/morinaka/chisflash-mbc5-gbc-shao-lu-ka) - 支持nds烧录 
 * [正版卡pcb复刻](https://github.com/HDR/NintendoPCBs)
 * [gba卡带版型的MBC5卡带](https://github.com/nm3210/GB_Flashcarts)
 * [烧录器见GBA部分](#GBA)
