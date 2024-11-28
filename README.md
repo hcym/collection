@@ -312,7 +312,7 @@
  * [ndsl改C口](https://github.com/rorosaurus/nds-lite-usb-c)
  * [ndsl蓝牙](https://facelesstech.wordpress.com/2024/02/25/ds-lite-built-in-bluetooth/)
  * [nds饭盒背光调节固件](https://facelesstech.wordpress.com/2022/08/03/ds-phat-adjustable-screen-brightness/)
- * **[dsi改无卡全套教程]**(https://spin.gyker.top/)
+ * **[dsi改无卡全套教程](https://spin.gyker.top/)**
 
 ### R4相关程序、内核备份
  * [gba烧录chisflash支持](./NDS/nds烧录包/gbabfv51cn.nds)
