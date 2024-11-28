@@ -308,8 +308,10 @@
  * [ndsill改单屏幕](https://www.jackvmakes.com/guides/nintendo-dsi-xl-to-gameboy-macro-xli)
  * [ndsl导电胶改锅仔片](https://facelesstech.wordpress.com/2022/07/23/ds-lite-clicky-buttons/)
  * [ndsill改c口充电](https://github.com/facelesstech/gameboy_macro_xl_usb_c)
-   *[2dsill改c口](https://github.com/facelesstech/dsi_dsixl_2ds_usb_c_charger_port)
+   * [2dsill改c口](https://github.com/facelesstech/dsi_dsixl_2ds_usb_c_charger_port)
  * [ndsl改C口](https://github.com/rorosaurus/nds-lite-usb-c)
  * [ndsl蓝牙](https://facelesstech.wordpress.com/2024/02/25/ds-lite-built-in-bluetooth/)
  * [nds饭盒背光调节固件](https://facelesstech.wordpress.com/2022/08/03/ds-phat-adjustable-screen-brightness/)
  
+
+### R4相关程序备份
