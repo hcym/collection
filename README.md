@@ -215,6 +215,11 @@
  * [GBC CPU-04主板逆向](https://github.com/nataliethenerd/CGB_ReverseEngineer)
  * [CPU-E gbc改gbpc](https://github.com/nataliethenerd/CPU-E-MGBC)
  * [系列原理图](./GAMEBOY/gameboy系列全原理图/MGB/)
+ * [gb摄像头卡wifi打印机](https://facelesstech.wordpress.com/2024/05/27/gameboy-wifi-printer/)
+ * [gbc开关改ndsl式滑动开关](https://github.com/ConsolesandCasks/SwiftSwitch-GBC)
+ * [gbc按键改锅仔片](https://oshpark.com/profiles/leggomyfroggo/page/3)
+ * [gbp按键改锅仔片](https://oshpark.com/profiles/leggomyfroggo/page/2)
+ * [ndsl卡槽改gbc卡槽](https://oshpark.com/profiles/leggomyfroggo/page/2)
 
 ### 卡带及烧录器
 * [MBC5震动卡合卡5V芯片](https://github.com/conker19to21/Game-Boy-MBC5-Rumble-Multicart) - 需要原装MBC5 电池存档 MouseBiteLabs版改进
@@ -256,9 +261,55 @@
  * [ChisFlash v1.2 大岩蛇 震动卡](./GBA/开源卡带pcb/chisflash1.2震动卡.epro) - 1MFRAM+震动 固件未开源
  * [ChisFlash v1.1.1 老男人特供flash卡](./GBA/开源卡带pcb/老男人特供flash卡.epro)
    * [固件](./GBA/固件/ChisFlash1MFlash%20完美Flash识别固件+512Kb补丁.zip)
- * [烧录器旧版1.3gbxcart](https://www.pcbway.com/project/shareproject/FLASH_DIP_40_gb_gba_reader_burner_flashgbx_compatible_b89f0985.html) - 已经过时 固件hex可以在flashgbx的文件夹中找到cfw.hex(AVR熔丝位设置高位熔丝是0xda，低位是0xaf)
- * [BaconFlasher - GB/GBA卡带SPI读写模块](https://oshwhub.com/chisbread/baconflasher)
+ * [烧录器旧版1.3gbxcart](  ) - 已经过时 固件hex可以在flashgbx的文件夹中找到cfw.hex(AVR熔丝位设置高位熔丝是0xda，低位是0xaf)
+ * [BaconFlasher - GB/GBA卡带SPI读写模块](https://oshwhub.com/chisbread/baconflasher) - 目前正在beta阶段的新版烧录器
    * [配套PC端程序](https://github.com/ChisBread/FlashGBX)
 
-### 烧录相关
+## WSC
 
+### 本体mod
+ * [ws硬件wiki](https://ws.nesdev.org/wiki/Main_Page)
+ * [awesome-wsdev](https://github.com/WonderfulToolchain/awesome-wsdev)
+
+ * [ws内录机SwancolorlHD](https://github.com/zwenergy/swancolorHD)
+ * [bootfriend改开机画面](https://wonderful.asie.pl/ws/bootfriend/)
+ * [Dump原机开机动画](https://github.com/up-n-atom/wsceepdump)
+ * [ext接口转usb](https://github.com/asiekierka/ws-extfriend)
+ * [bandai2003复刻](https://github.com/up-n-atom/Bandai2003)
+ * [原理图](https://github.com/RSDuck/swan_schematics) - 更新中
+
+ ### 卡带及烧录器
+ * [正版卡带pcb信息1](https://github.com/amoibos/WonderSwan_Cartridge_List)
+   * [正版卡带pcb信息2](https://github.com/remy/ws-pcb-db)
+ * [无存档卡带复刻](https://github.com/X-death25/WonderSwan-Classic)
+ * [女巫卡复刻](https://github.com/up-n-atom/WonderWitch)
+ * [开源自烧录卡](https://github.com/RSDuck/nileswan)
+ * [MamaMitte 复刻](https://github.com/up-n-atom/MamaMitte)
+
+ ### 外设
+ * [天鹅外壳SFC手柄](https://github.com/zwenergy/swantroller)
+ * [WS自制联机线](https://github.com/zwenergy/WS-LinkC)
+ * [WS自制耳机接口](https://github.com/zwenergy/wsheadphone)
+   * [嘉立创版](https://oshwhub.com/duyes/tested-wonderswanheadphones-headset-adapter)
+ * [WSMTOOL](https://github.com/zwenergy/WSMtool) - 耳机、串口线、联机线三合一
+
+
+ ## nds
+
+ ### 本体mod
+ * [nds增加AV输出原始项目](https://github.com/LostNintendoHistory/Lost-NDS-TV)
+   * [图文视频教程](https://www.mundoyakara.com/2021/11/conecta-tu-nintendo-ds-lite-tu.html)
+   * [olderzeus软排线版带蓝牙手柄模块](https://www.mundoyakara.com/2021/11/las-dos-pantallas-de-nintendo-ds-lite.html)
+   * [usb_c输出AV](https://github.com/facelesstech/gameboy_macro_tv_out_usb_c/tree/main)
+   * [NDS视频输出电阻平价版](https://facelesstech.wordpress.com/2022/12/17/gameboy-macro-tv-out-the-cheap-way/)
+ * [nds改gba图文教程](https://www.mundoyakara.com/2021/10/convertir-ds-lite-roto-en-gameboy-macro.html?m=1)
+   * [双屏切换](https://facelesstech.wordpress.com/2021/06/20/ds-lite-screen-switching-mod/)
+ * [双网卡模块](https://github.com/facelesstech/ds_lite_wifi_chip_switcher)
+ * [ndsill改单屏幕](https://www.jackvmakes.com/guides/nintendo-dsi-xl-to-gameboy-macro-xli)
+ * [ndsl导电胶改锅仔片](https://facelesstech.wordpress.com/2022/07/23/ds-lite-clicky-buttons/)
+ * [ndsill改c口充电](https://github.com/facelesstech/gameboy_macro_xl_usb_c)
+   *[2dsill改c口](https://github.com/facelesstech/dsi_dsixl_2ds_usb_c_charger_port)
+ * [ndsl改C口](https://github.com/rorosaurus/nds-lite-usb-c)
+ * [ndsl蓝牙](https://facelesstech.wordpress.com/2024/02/25/ds-lite-built-in-bluetooth/)
+ * [nds饭盒背光调节固件](https://facelesstech.wordpress.com/2022/08/03/ds-phat-adjustable-screen-brightness/)
+ 
