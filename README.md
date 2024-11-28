@@ -14,10 +14,13 @@
 - [WSC](#WSC)
 - [nds](#nds)
 - [N64](#N64)
-- [PS](#ps)
+- [Saturn](#Saturn)
+- [PCE](#PCE)
+- [PS1](#ps1)
 - [ps2](#ps2)
-- [wii](#wii)
 - [ngc](#ngc)
+- [DC](#DC)
+- [wii](#wii)
 - [game&watch](#game&watch)
 ## 介绍
 
@@ -361,7 +364,7 @@
 
  #### N64 蓝牙接收器
  * [Blueretro分支](https://github.com/darthcloud/BlueRetro/wiki/BlueRetro-Cables-Build-Instructions#nintendo-64-adapter-cable)
-
+ * [内置版软排线蓝牙模块](https://github.com/TharathielCB/BR4N64)
   ### 卡带相关
   * [SUMMERCART64](https://github.com/Polprzewodnikowy/SummerCart64) - TF卡烧录卡支持n64dd
   * [PicoCart 64](https://github.com/kbeckmann/PicoCart64)
@@ -374,3 +377,38 @@
   * [OEM4M扩展卡](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak)
   * [神游64自制AV线](./N64/N64_NUS-004_Board_Files.zip)
 
+## Saturn
+### 本体mod
+* [系统内存改FRAM](https://consolemods.org/wiki/Saturn:FRAM_Mod)
+* [数字音频模块](https://consolemods.org/wiki/Saturn:Digital_Audio_(SPDIF)_Mod)
+* [全区bios](https://github.com/nostalgic-indulgences/BIOS_Collection/tree/main)
+
+## PCE
+### 本体mod
+* [改RGB, S-Video，AV](https://github.com/zaxour/TurboNanza)
+* [拓展口RGB输出](https://www.pcenginefans.com/forum/index.php?topic=8924.0)
+
+## PS1
+* [蓝牙记忆卡](https://github.com/ChrispyNugget/BlueMemCard)
+* [pico记忆卡](https://github.com/dangiu/PicoMemcard)
+* [记忆卡读取模块](https://github.com/MakotoKurauchi/ps_memory_controller_shield)
+* [SD2PSX](https://github.com/sd2psx/pcb) - 带屏幕记忆卡
+* [双晶振模块](https://github.com/L10N37/DFO-PS1-PSXTAL)
+* [数字音频模块](https://consolemods.org/wiki/PS1:Digital_Audio_(SPDIF)_Mod)
+
+## ps2
+* [外置蓝牙接收器](https://github.com/Micha213/BlueRetro-PS1-2-Receiver) 带外壳文件
+* [直读芯片大全](https://github.com/m4x10187/ps2-modchip-files)
+* [游戏封面](https://github.com/xlenore/ps2-covers)
+
+## DC
+* [USB手柄转DC](https://github.com/OrangeFox86/DreamcastControllerUsbPico)
+* [CDI制作](https://github.com/arthabus/DreamcastCdiTool)
+* [东芝光驱板改硬盘模块](https://github.com/pyroesp/Shiba-GD-IDE)
+* [串口转SD卡](https://oshpark.com/profiles/Helder)
+* [更换bios](https://consolemods.org/wiki/Dreamcast:BIOS_Replacement_Mod)
+
+
+## ngc
+
+* [xeno1](https://oshpark.com/profiles/jskyboo/page/3)
