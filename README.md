@@ -248,6 +248,10 @@
  * [gbasp原理图](./GAMEBOY/gameboy系列全原理图/AGS/)
  * [gbasp普亮复刻主板](https://oshwhub.com/morinaka/mori-de-gbasp-yuan-ji-fu-ke)
  * [gbasp改TYPEC充电](https://github.com/thatdecade/gba-sp-usb-c)
+ * [gba按键改锅仔片](https://github.com/Zekfoo/tactileAGB)
+ * [gbasp改耳机接口](https://github.com/rorosaurus/gba-sp-headphone-jack)
+ * [将gba改成蓝牙手柄](https://github.com/Shyri/gba-bt-hid)
+ * [gbasp蓝牙耳机发射器](https://github.com/bklevence/gba-sp-bt-audio-tx)
  * [gba内录机](https://github.com/zwenergy/gbaHD)
    * [内录机all in one](https://github.com/Zekfoo/gbaHD-AIO-Shield)
  * [GBA锂电池充电模块](https://oshwhub.com/morinaka/moripower-gba-yong-li-dian-chong-fang-mo-kuai)
@@ -328,11 +332,14 @@
  ## N64
  
  ### 本体mod
-
-  *[]()
-  *[]()
-  *[]()
-  *[]()
+ #### N64改rgb
+ * [最简易放大器版N64 RGB AMP](https://github.com/TzorriMahm/N64_RGB_Amp) - THS7374
+   * [简中简面包板改rgb](https://consolemods.org/wiki/N64:RGB_Mod_DIY_RGB_Amp) - 也是THS7374
+ * [进阶版fpga改rgb](https://github.com/borti4938/n64rgb_project_overview)
+   * [N64Advanced板](https://github.com/borti4938/n64adv_pcb)
+    * [固件](https://github.com/borti4938/n64adv_fw)
+     * 基于 FPGA 的数模视频模块，输出 RGB、RGsB、YPbPr
+     
   *[]()
   *[]()
   *[]()
