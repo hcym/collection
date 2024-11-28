@@ -367,10 +367,10 @@
   * [PicoCart 64](https://github.com/kbeckmann/PicoCart64)
 
 ### 配件  
-  *[FRAM免电池记忆卡](https://github.com/Element18592/N64-FRAM-Memory-Pak)
-  *[原装手柄改蓝牙](https://github.com/JPZV/BluN64-ESP32)
-  *[原装手柄改蓝牙飞线版](https://yakaracolombia.github.io/esp32-online-tool/n64.html)
-  *[开源4M扩展卡](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak)
-  *[OEM4M扩展卡](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak)
-  *[神游64自制AV线](./N64/N64_NUS-004_Board_Files.zip)
+  * [FRAM免电池记忆卡](https://github.com/Element18592/N64-FRAM-Memory-Pak)
+  * [原装手柄改蓝牙](https://github.com/JPZV/BluN64-ESP32)
+  * [原装手柄改蓝牙飞线版](https://yakaracolombia.github.io/esp32-online-tool/n64.html)
+  * [开源4M扩展卡](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak)
+  * [OEM4M扩展卡](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak)
+  * [神游64自制AV线](./N64/N64_NUS-004_Board_Files.zip)
 
