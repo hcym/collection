@@ -312,6 +312,14 @@
  * [ndsl改C口](https://github.com/rorosaurus/nds-lite-usb-c)
  * [ndsl蓝牙](https://facelesstech.wordpress.com/2024/02/25/ds-lite-built-in-bluetooth/)
  * [nds饭盒背光调节固件](https://facelesstech.wordpress.com/2022/08/03/ds-phat-adjustable-screen-brightness/)
- 
+ * **[dsi改无卡全套教程]**(https://spin.gyker.top/)
 
-### R4相关程序备份
+### R4相关程序、内核备份
+ * [gba烧录chisflash支持](./NDS/nds烧录包/gbabfv51cn.nds)
+ * [GB/GBC烧录仅chisflash-mbc5](./NDS/nds烧录包/gbcburnV4.1.nds)
+ * [HK海绵宝宝卡内核](./NDS/内核/PRO版新银卡NP内核V3.02Plus.7z)
+ * [大宝剑（假）wood卡、GW蓝、ace卡内核](./NDS/内核/GW蓝卡&CN白卡&ACE卡_Wood++V1.7(By天涯).7z)
+ * [炸弹人com卡内核](./NDS/内核/R4i-V4.2%20com去炸弹.rar)
+ * [DSTWO_EOS整合](./NDS/内核/DSTWO_EOS整合版.7z)
+ * [DSONE&i五合一整合包](./NDS/内核/[chn]DSONE(i)%20SDHC%20五核整合包%20V2.3%20群专版.7z)
+ * [DSONE&i五合一拓展包](./NDS/内核/DSONE&i%20Loader%20in%20OpenDS%201.5【五合一V2.3用终极扩展包】.7z)
