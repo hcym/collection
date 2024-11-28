@@ -363,8 +363,8 @@
  * [Blueretro分支](https://github.com/darthcloud/BlueRetro/wiki/BlueRetro-Cables-Build-Instructions#nintendo-64-adapter-cable)
 
   ### 卡带相关
-  *[SUMMERCART64](https://github.com/Polprzewodnikowy/SummerCart64) - TF卡烧录卡支持n64dd
-  *[PicoCart 64](https://github.com/kbeckmann/PicoCart64)
+  * [SUMMERCART64](https://github.com/Polprzewodnikowy/SummerCart64) - TF卡烧录卡支持n64dd
+  * [PicoCart 64](https://github.com/kbeckmann/PicoCart64)
 
 ### 配件  
   *[FRAM免电池记忆卡](https://github.com/Element18592/N64-FRAM-Memory-Pak)
