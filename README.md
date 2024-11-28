@@ -375,7 +375,7 @@
   * [原装手柄改蓝牙飞线版](https://yakaracolombia.github.io/esp32-online-tool/n64.html)
   * [开源4M扩展卡](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak)
   * [OEM4M扩展卡](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak)
-  * [神游64自制AV线](./N64/N64_NUS-004_Board_Files.zip)
+  * [神游64自制AV线](https://github.com/HDR/iQue-Player-AV-Cable)
 
 ## Saturn
 ### 本体mod
