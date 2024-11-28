@@ -187,6 +187,8 @@
    * [图文教程](https://consolemods.org/wiki/Game_Boy:Backlight_Mod)
  * 内录机
    * [GBHDMI](https://github.com/Martoni/GbHdmi)
+   * [USB画面捕捉器](https://github.com/Staacks/gbinterceptor)
+   * [VGA输出](https://github.com/joeostrander/consolized-game-boy)
  * 原理图
    * [DMG厚GB原理图大全](./GAMEBOY/gameboy系列全原理图/) - gekkio贡献的全系列原理图,包含主板、屏幕驱动板、电源板、耳机板
 ### 卡带及烧录器
@@ -332,46 +334,41 @@
  ## N64
  
  ### 本体mod
- #### N64改rgb
+ #### N64改rgb、hdmi、dvi
  * [最简易放大器版N64 RGB AMP](https://github.com/TzorriMahm/N64_RGB_Amp) - THS7374
    * [简中简面包板改rgb](https://consolemods.org/wiki/N64:RGB_Mod_DIY_RGB_Amp) - 也是THS7374
- * [进阶版fpga改rgb](https://github.com/borti4938/n64rgb_project_overview)
-   * [N64Advanced板](https://github.com/borti4938/n64adv_pcb)
+ * [gcvieo_lite N64版](https://github.com/ikorb/gcvideo/tree/main/HDL/gcvideo_lite_n64) 
+ * [borti4938进阶版fpga改rgb项目总览](https://github.com/borti4938/n64rgb_project_overview)
+   * [1、N64Advanced](https://github.com/borti4938/n64adv_pcb)
     * [固件](https://github.com/borti4938/n64adv_fw)
-     * 基于 FPGA 的数模视频模块，输出 RGB、RGsB、YPbPr
-     
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
+     * 介绍：基于 FPGA 的数模视频模块，输出 RGB、RGsB、YPbPr，带VI去模糊，可视化菜单，游戏内复位，行倍增（480p / 576p）和三倍增（仅 NTSC，720p（非标准））包括（简单）扫描线模拟
+   * [2、N64Advanced2](https://github.com/borti4938/n64adv2_pcb)
+    * [固件](https://github.com/borti4938/n64adv2_fw)
+     * 介绍：与 N64Digital 和 UltraHDMI 相当，两者都是出色的改装套件，但这是开源的。分辨率高达 1440p，扫描线模拟VI-Deblur，16位模式，游戏内重置，屏幕配置菜单。
+   * [3、N64RGB](https://github.com/borti4938/n64rgb_pcb)
+    * [固件](https://github.com/borti4938/n64rgb_fw)
+     * 介绍：相对简单的rgb套件，VI-DeBlur 和 16 位模式可通过控制器或机械切换器切换，游戏中通过控制器重置
+   * [4、N64RGB软排线版](https://github.com/borti4938/n64rgb_flex)
+   * [5、杂项附加组件](https://github.com/borti4938/n64rgb_project_misc)
+     * 介绍：
+       * 过滤插件
+       * 用于 N64RGBv2.1 和 N64Adv 安装的柔性 PCB
+       * 适用于较旧/其他基于 CPLD 的 N64RGB 套件的电源调节器
+       * 基于 THS7374 的 N64 RGB 放大器已输出 RGB
+ * [PicoDVI-N64](https://github.com/kbeckmann/PicoDVI-N64) - 基于树莓派 Pico的N64 DVI输出模块
+
+ #### N64 蓝牙接收器
+ * [Blueretro分支](https://github.com/darthcloud/BlueRetro/wiki/BlueRetro-Cables-Build-Instructions#nintendo-64-adapter-cable)
 
   ### 卡带相关
+  *[SUMMERCART64](https://github.com/Polprzewodnikowy/SummerCart64) - TF卡烧录卡支持n64dd
+  *[PicoCart 64](https://github.com/kbeckmann/PicoCart64)
 
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-
-
-### 配件
-
-  *[]()
-  *[]()
-  *[]()
-  *[]()
-  *[]()
+### 配件  
+  *[FRAM免电池记忆卡](https://github.com/Element18592/N64-FRAM-Memory-Pak)
+  *[原装手柄改蓝牙](https://github.com/JPZV/BluN64-ESP32)
+  *[原装手柄改蓝牙飞线版](https://yakaracolombia.github.io/esp32-online-tool/n64.html)
+  *[开源4M扩展卡](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak)
+  *[OEM4M扩展卡](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak)
   *[]()
 
