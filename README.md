@@ -427,30 +427,32 @@
 * [KunaiGC免盘](https://github.com/KunaiGC/KunaiGC)
 * [转区开关](https://www.gc-forever.com/wiki/index.php?title=Region_Switch)
 * [SWISS](https://github.com/emukidid/swiss-gc)
+* [NGC内置蓝牙手柄接收器](https://github.com/Arthrimus/BlueRetro-HW2-GameCube)
 #### GCVIEDO
 * [gcvideo_lite](https://github.com/ikorb/gcvideo/tree/main/Hardware) - lattice cpld + cd3404 无固件更新
 * [GCHDMI](https://github.com/citrus3000psi/GCVideo-Hardware-Designs/tree/master/Gamecube/DVI) - XILINX 仅输出hdmi，支持最新固件
 * [GCDUAL](https://github.com/citrus3000psi/GCVideo-Hardware-Designs/tree/master/Gamecube/GCDual)  - XILINX + ADV7125 模拟信号、hdmi支持，支持最新固件
 * [GCPLUG](https://oshpark.com/shared_projects?search%5Bquery%5D=GCPlug+1.1&button=&search%5Bfilters%5D%5Bpcb_layers%5D%5Btwo_layer%5D=1&records_date_sort=desc&records_per_page=20) 尾插版hdmi
 * [GCMAX](https://dwz.mk/fii71) 尾差版gcdual
-* [GameCube 记忆卡管理程序](https://github.com/suloku/gcmm)
-* [sd2sp2 2.0版本](https://oshwhub.com/hualazimo7/sd2sp2-2-0)
-* [记忆卡版2.0 sd卡卡套](./NGC/记忆卡slotAB2%20SD.zip)
+
 ### 配件
 * [n64/sfc/fc手柄转NGC](https://www.raphnet.net/electronique/x2wii/index_en.php)
 * [ngc手柄转usb](https://www.raphnet.net/electronique/gcn64_usb_adapter_gen3/index_en.php)
-
+* [GameCube 记忆卡管理程序](https://github.com/suloku/gcmm)
+* [sd2sp2 2.0版本](https://oshwhub.com/hualazimo7/sd2sp2-2-0)
+* [记忆卡版2.0 sd卡卡套](./NGC/记忆卡slotAB2%20SD.zip)
+* [cubeboot](https://github.com/OffBroadway/cubeboot) - 可自定义开机界面或者在树莓派免盘改造后恢复开机方块动画
+* [sp2网卡ETH2GC](https://github.com/webhdx/ETH2GC)
+* [slotA网卡](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter)
+* [开源NGC手柄](https://github.com/PhobGCC/PhobGCC-doc) 树莓派方案
 
 ## wii
 * [NES, SNES, N64 or Gamecube 手柄接遥控器](https://www.raphnet.net/electronique/extenmote/index_en.php#9)
-* [NES2Wii]()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [NES2Wii](https://github.com/ClusterM/nes2wii) - NES、sfc、psx、md、n64、ngc链接wii遥控器
+* [wiihdmi](https://github.com/wmi-0/wiihdmi) -GCvideo wii变种，飞线版。
+* [fujiflex](https://github.com/mackieks/fujiflex) wii hdmi软排线版
+
+
+## 视频转换器
+
+* [rgbs和VGA转色差、s端子](https://oshwhub.com/hualazimo7/rgbs-zhuan-se-ci-s-duan-zi#5)
