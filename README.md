@@ -459,3 +459,5 @@
 ## 视频转换器
 
 * [rgbs和VGA转色差、s端子](https://oshwhub.com/hualazimo7/rgbs-zhuan-se-ci-s-duan-zi#5)
+ * 上述转接器包含了VGA（RGBHV）转RGBS中hv同步转S同步的原理图；
+ * 上述转色差、转S端子两部分电路独立，可拆开做精简模块。
