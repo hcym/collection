@@ -389,6 +389,7 @@
 * [改RGB, S-Video，AV](https://github.com/zaxour/TurboNanza)
 * [拓展口RGB输出](https://www.pcenginefans.com/forum/index.php?topic=8924.0)
 * [手柄转usb](https://www.raphnet.net/electronique/tgfx16_usb/index_en.php)
+* [内置蓝牙blueretro安装](https://github.com/nostalgic-indulgences/BlueRetro_Internal_Installation/tree/main/NEC%20PC-Engine%20-%20CoreGrafx%20I%20%26%20II)
 ## PS1
 * [蓝牙记忆卡](https://github.com/ChrispyNugget/BlueMemCard)
 * [pico记忆卡](https://github.com/dangiu/PicoMemcard)
@@ -411,22 +412,37 @@
 * [更换bios](https://consolemods.org/wiki/Dreamcast:BIOS_Replacement_Mod)
 * [DC手柄鼠标键盘转USB](https://www.raphnet.net/electronique/dreamcast_usb/index_en.php)
 * [VGA盒子](https://www.raphnet.net/electronique/dreamcast/images/dricas.gif)
-
+* [dc改hdmi](https://github.com/citrus3000psi/DCHDMI-Hardware)
+* [内置BLUERETRO安装](https://github.com/nostalgic-indulgences/BlueRetro_Internal_Installation/tree/main/Sega%20Dreamcast)
 ## ngc
+### 本体mod
+* [Xeno直读自制]
+  * [xeno version 1](https://oshpark.com/profiles/jskyboo/page/3)
+  * [xeno version 2](https://github.com/gamaral/XenoGC/tree/master/hardware)
+  * [xeno version 3](https://github.com/Xyl2k/XenoGC-Clone)
+  * [xeno version 4](https://github.com/andreacampanella/XenoGC328)
+  * [Xeno version 5](https://github.com/HDR/XenoGC-Flex)
+* [树莓派免盘picoboot](https://github.com/webhdx/PicoBoot)
+* [KunaiGC免盘](https://github.com/KunaiGC/KunaiGC)
+* [转区开关](https://www.gc-forever.com/wiki/index.php?title=Region_Switch)
+* [SWISS](https://github.com/emukidid/swiss-gc)
+#### GCVIEDO
+* [gcvideo_lite](https://github.com/ikorb/gcvideo/tree/main/Hardware) - lattice cpld + cd3404 无固件更新
+* [GCHDMI](https://github.com/citrus3000psi/GCVideo-Hardware-Designs/tree/master/Gamecube/DVI) - XILINX 仅输出hdmi，支持最新固件
+* [GCDUAL](https://github.com/citrus3000psi/GCVideo-Hardware-Designs/tree/master/Gamecube/GCDual)  - XILINX + ADV7125 模拟信号、hdmi支持，支持最新固件
+* [GCPLUG](https://oshpark.com/shared_projects?search%5Bquery%5D=GCPlug+1.1&button=&search%5Bfilters%5D%5Bpcb_layers%5D%5Btwo_layer%5D=1&records_date_sort=desc&records_per_page=20) 尾插版hdmi
+* [GCMAX](https://dwz.mk/fii71) 尾差版gcdual
+* [GameCube 记忆卡管理程序](https://github.com/suloku/gcmm)
+* [sd2sp2 2.0版本](https://oshwhub.com/hualazimo7/sd2sp2-2-0)
+* [记忆卡版2.0 sd卡卡套](./NGC/记忆卡slotAB2%20SD.zip)
+### 配件
 * [n64/sfc/fc手柄转NGC](https://www.raphnet.net/electronique/x2wii/index_en.php)
 * [ngc手柄转usb](https://www.raphnet.net/electronique/gcn64_usb_adapter_gen3/index_en.php)
-* [xeno1](https://oshpark.com/profiles/jskyboo/page/3)
-* []()
-* []()
-* []()
-* []()
-* []()
 
 
 ## wii
-
 * [NES, SNES, N64 or Gamecube 手柄接遥控器](https://www.raphnet.net/electronique/extenmote/index_en.php#9)
-* []()
+* [NES2Wii]()
 * []()
 * []()
 * []()
