@@ -169,7 +169,7 @@
  * [SM801X复刻MD](https://github.com/HotPixelChannel/EHODRIVE_SM801_Sega_MD_Clone) - 支持rgbs输出
  * [鼠标转md控制器](https://github.com/HotPixelChannel/Mouse-To-SEGA-MD)
  * [MD大3键手柄改无线](https://yakaracolombia.github.io/esp32-online-tool/genesis.html)- [原理图见此](./MD/md手柄改无线.jpg)
-
+ * [SFC手柄转md](https://www.raphnet.net/electronique/snes2md/index_en.php)
 ### 游戏资源
  * [老男人精选](./MD/游戏精选/)
 
@@ -376,18 +376,19 @@
   * [开源4M扩展卡](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak)
   * [OEM4M扩展卡](https://github.com/MasonStooksbury/OEM-N64-Expansion-Pak)
   * [神游64自制AV线](https://github.com/HDR/iQue-Player-AV-Cable)
+  * [ngc手柄转n64](https://www.raphnet.net/electronique/gc_to_n64/index_en.php)
 
 ## Saturn
 ### 本体mod
 * [系统内存改FRAM](https://consolemods.org/wiki/Saturn:FRAM_Mod)
 * [数字音频模块](https://consolemods.org/wiki/Saturn:Digital_Audio_(SPDIF)_Mod)
 * [全区bios](https://github.com/nostalgic-indulgences/BIOS_Collection/tree/main)
-
+* [土星手柄转usb](https://www.raphnet.net/electronique/saturn_usb/index_en.php)
 ## PCE
 ### 本体mod
 * [改RGB, S-Video，AV](https://github.com/zaxour/TurboNanza)
 * [拓展口RGB输出](https://www.pcenginefans.com/forum/index.php?topic=8924.0)
-
+* [手柄转usb](https://www.raphnet.net/electronique/tgfx16_usb/index_en.php)
 ## PS1
 * [蓝牙记忆卡](https://github.com/ChrispyNugget/BlueMemCard)
 * [pico记忆卡](https://github.com/dangiu/PicoMemcard)
@@ -395,6 +396,7 @@
 * [SD2PSX](https://github.com/sd2psx/pcb) - 带屏幕记忆卡
 * [双晶振模块](https://github.com/L10N37/DFO-PS1-PSXTAL)
 * [数字音频模块](https://consolemods.org/wiki/PS1:Digital_Audio_(SPDIF)_Mod)
+* [sfc手柄转psx](https://www.raphnet.net/electronique/snes_to_psx/index_en.php)
 
 ## ps2
 * [外置蓝牙接收器](https://github.com/Micha213/BlueRetro-PS1-2-Receiver) 带外壳文件
@@ -407,8 +409,31 @@
 * [东芝光驱板改硬盘模块](https://github.com/pyroesp/Shiba-GD-IDE)
 * [串口转SD卡](https://oshpark.com/profiles/Helder)
 * [更换bios](https://consolemods.org/wiki/Dreamcast:BIOS_Replacement_Mod)
-
+* [DC手柄鼠标键盘转USB](https://www.raphnet.net/electronique/dreamcast_usb/index_en.php)
+* [VGA盒子](https://www.raphnet.net/electronique/dreamcast/images/dricas.gif)
 
 ## ngc
-
+* [n64/sfc/fc手柄转NGC](https://www.raphnet.net/electronique/x2wii/index_en.php)
+* [ngc手柄转usb](https://www.raphnet.net/electronique/gcn64_usb_adapter_gen3/index_en.php)
 * [xeno1](https://oshpark.com/profiles/jskyboo/page/3)
+* []()
+* []()
+* []()
+* []()
+* []()
+
+
+## wii
+
+* [NES, SNES, N64 or Gamecube 手柄接遥控器](https://www.raphnet.net/electronique/extenmote/index_en.php#9)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
