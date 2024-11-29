@@ -21,7 +21,7 @@
 - [ngc](#ngc)
 - [DC](#DC)
 - [wii](#wii)
-- [Game&Watch](#Game&Watch)
+- [GameWatch](#GameWatch)
 - [视频转换器](#视频转换器)
 ## 介绍
 
@@ -452,9 +452,10 @@
 * [wiihdmi](https://github.com/wmi-0/wiihdmi) -GCvideo wii变种，飞线版。
 * [fujiflex](https://github.com/mackieks/fujiflex) wii hdmi软排线版
 
-##Game&Watch
+## GameWatch
 
 * [刷机完全教程](https://bbs.oldmantvg.net/thread-36263.htm)
+
 ## 视频转换器
 
 * [rgbs和VGA转色差、s端子](https://oshwhub.com/hualazimo7/rgbs-zhuan-se-ci-s-duan-zi#5)
