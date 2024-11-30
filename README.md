@@ -334,6 +334,8 @@
  * [DSONE&i五合一整合包](./NDS/内核/[chn]DSONE(i)%20SDHC%20五核整合包%20V2.3%20群专版.7z)
  * [DSONE&i五合一拓展包](./NDS/内核/DSONE&i%20Loader%20in%20OpenDS%201.5【五合一V2.3用终极扩展包】.7z)
 
+### 外设
+ * [震动卡](./NDS/NDSL震动卡.epro)
 
  ## N64
  
