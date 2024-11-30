@@ -440,6 +440,7 @@
 ### 配件
 * [n64/sfc/fc手柄转NGC](https://www.raphnet.net/electronique/x2wii/index_en.php)
 * [ngc手柄转usb](https://www.raphnet.net/electronique/gcn64_usb_adapter_gen3/index_en.php)
+* [ngc原装手柄改无线](https://yakaracolombia.github.io/esp32-online-tool/gamecube.html)
 * [GameCube 记忆卡管理程序](https://github.com/suloku/gcmm) - 可将存档文件写入实体记忆卡
 * [sd2sp2 2.0版本](https://oshwhub.com/hualazimo7/sd2sp2-2-0)
 * [记忆卡版2.0 sd卡卡套](./NGC/记忆卡slotAB2%20SD.zip)
@@ -449,6 +450,11 @@
 * [sp2网卡ETH2GC](https://github.com/webhdx/ETH2GC)
 * [slotA网卡](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter)
 * [开源NGC手柄](https://github.com/PhobGCC/PhobGCC-doc) 树莓派方案
+### 模拟器资源
+* [NGC平台多机种模拟器](./NGC/NGC平台多机种模拟器.rar)
+
+
+
 
 ## wii
 * [NES, SNES, N64 or Gamecube 手柄接遥控器](https://www.raphnet.net/electronique/extenmote/index_en.php#9)
