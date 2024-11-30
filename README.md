@@ -426,6 +426,7 @@
   * [xeno version 4](https://github.com/andreacampanella/XenoGC328)
   * [Xeno version 5](https://github.com/HDR/XenoGC-Flex)
 * [树莓派免盘picoboot](https://github.com/webhdx/PicoBoot)
+* [Qoob直读刷免盘固件](./NGC/NGC-QoobSX免盘.zip)
 * [KunaiGC免盘](https://github.com/KunaiGC/KunaiGC)
 * [转区开关](https://www.gc-forever.com/wiki/index.php?title=Region_Switch)
 * [SWISS](https://github.com/emukidid/swiss-gc)
