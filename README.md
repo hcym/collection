@@ -440,7 +440,7 @@
 ### 配件
 * [n64/sfc/fc手柄转NGC](https://www.raphnet.net/electronique/x2wii/index_en.php)
 * [ngc手柄转usb](https://www.raphnet.net/electronique/gcn64_usb_adapter_gen3/index_en.php)
-* [GameCube 记忆卡管理程序](https://github.com/suloku/gcmm)
+* [GameCube 记忆卡管理程序](https://github.com/suloku/gcmm) - 可将存档文件写入实体记忆卡
 * [sd2sp2 2.0版本](https://oshwhub.com/hualazimo7/sd2sp2-2-0)
 * [记忆卡版2.0 sd卡卡套](./NGC/记忆卡slotAB2%20SD.zip)
  * [配套3d打印外壳](./NGC/记忆卡卡壳3d文件.zip) - 不完美需修剪
