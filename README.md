@@ -444,6 +444,7 @@
 * [sd2sp2 2.0版本](https://oshwhub.com/hualazimo7/sd2sp2-2-0)
 * [记忆卡版2.0 sd卡卡套](./NGC/记忆卡slotAB2%20SD.zip)
  * [配套3d打印外壳](./NGC/记忆卡卡壳3d文件.zip) - 不完美需修剪
+* [pro版sd2sp2卡套，无需拆底座版本](https://github.com/silverstee1/SD2SP2-POR-2.0-UPGRADE-PCB)
 * [cubeboot](https://github.com/OffBroadway/cubeboot) - 可自定义开机界面或者在树莓派免盘改造后恢复开机方块动画
 * [sp2网卡ETH2GC](https://github.com/webhdx/ETH2GC)
 * [slotA网卡](https://github.com/silverstee1/ETH2GC-Card-Slot-Adapter)
