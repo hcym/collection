@@ -164,6 +164,7 @@
  * [简易4MB单卡 无存档](./MD/卡带/PCB_MD短板_Final_2024-09-10.rar) - 老男人论坛@雷帕德安布雷拉
  * [简易4MB单卡带存档](./MD/卡带/PCB_MD记忆版美观版_2024-09-10.rar) - 老男人论坛@雷帕德安布雷拉
  * [乌克兰OPEN-ED](https://github.com/krikzz/open-ed)
+ * [乌克兰配套烧录器flash-kit](./MD/flashkit-master.zip)
  * [简易编程器](https://oshwhub.com/firseve/stc-md-tsop56)
  * [sanni cartreader](https://github.com/sanni/cartreader) - 目前固件仅支持MX29F1610卡带
 
