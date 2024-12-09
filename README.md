@@ -394,6 +394,7 @@
 ### 本体mod
 * [改RGB, S-Video，AV](https://github.com/zaxour/TurboNanza)
 * [拓展口RGB输出](https://www.pcenginefans.com/forum/index.php?topic=8924.0)
+* [拓展口RGB输出带3D外壳](https://oshpark.com/shared_projects/jqp6SYQ6)
 * [手柄转usb](https://www.raphnet.net/electronique/tgfx16_usb/index_en.php)
 * [内置蓝牙blueretro安装](https://github.com/nostalgic-indulgences/BlueRetro_Internal_Installation/tree/main/NEC%20PC-Engine%20-%20CoreGrafx%20I%20%26%20II)
 ## PS1
