@@ -435,6 +435,7 @@
 * [转区开关](https://www.gc-forever.com/wiki/index.php?title=Region_Switch)
 * [SWISS](https://github.com/emukidid/swiss-gc)
 * [NGC内置蓝牙手柄接收器](https://github.com/Arthrimus/BlueRetro-HW2-GameCube)
+* [NGC阉割版数字接口mod](./NGC/GC101DigitalPort-main.zip)
 #### GCVIEDO
 * [gcvideo_lite](https://github.com/ikorb/gcvideo/tree/main/Hardware) - lattice cpld + cd3404 无固件更新
 * [GCHDMI](https://github.com/citrus3000psi/GCVideo-Hardware-Designs/tree/master/Gamecube/DVI) - XILINX 仅输出hdmi，支持最新固件
