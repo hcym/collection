@@ -51,6 +51,8 @@
     * [Opentendo](https://github.com/Redherring32/OpenTendo)
   * 小天才复刻
     * [复刻小天才](https://github.com/mleonid2000/dendy_junior_remastered)
+  * [NES复刻集成RGBS模块](https://github.com/mmoracantallops/fiNESse)
+  * [TYPEC电源板及AV](https://github.com/hakkslab/FamicomPowerBoard)
   * [Candy 8bit]
     * [全集成复刻fc](https://github.com/HotPixelChannel/Candy_8bit/tree/main)
   * [红白机工程原理图](https://oshwhub.com/ayong82/hong-bai-ji-fu-ke_copy)
@@ -106,6 +108,7 @@
  * [SFC视频输出口3d复刻件](https://github.com/TRP-Retromods/SNES_AV_Connector) 
  * [PAL制sfc复刻](https://github.com/stonedDiscord/nonSNES)
  * [超任rgbs转VGA输出](https://github.com/jeffqchen/SNES2VGA)
+ * [机器增加手柄复位mod](https://github.com/Nold360/lazy_mans_snes_reset)
  * [sfc蓝牙接收器 BR分支](https://github.com/darthcloud/BlueRetro/wiki/BlueRetro-Cables-Build-Instructions#sfc--snes-adapter-cable)
 ### 卡带及烧录器
  * [sd2snes](https://github.com/mrehkopf/sd2snes)
@@ -477,3 +480,4 @@
 * [rgbs和VGA转色差、s端子](https://oshwhub.com/hualazimo7/rgbs-zhuan-se-ci-s-duan-zi#5)
  * 上述转接器包含了VGA（RGBHV）转RGBS中hv同步转S同步的原理图；
  * 上述转色差、转S端子两部分电路独立，可拆开做精简模块。
+* [RGBS转VGA，gbsc迷你版](https://github.com/mackieks/Shinobi-Scaler)
