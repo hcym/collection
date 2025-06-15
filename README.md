@@ -400,6 +400,7 @@
 * [拓展口RGB输出带3D外壳](https://oshpark.com/shared_projects/jqp6SYQ6)
 * [手柄转usb](https://www.raphnet.net/electronique/tgfx16_usb/index_en.php)
 * [内置蓝牙blueretro安装](https://github.com/nostalgic-indulgences/BlueRetro_Internal_Installation/tree/main/NEC%20PC-Engine%20-%20CoreGrafx%20I%20%26%20II)
+* [主板复刻](https://github.com/Board-Folk/PC-Engine)
 ## PS1
 * [蓝牙记忆卡](https://github.com/ChrispyNugget/BlueMemCard)
 * [pico记忆卡](https://github.com/dangiu/PicoMemcard)
